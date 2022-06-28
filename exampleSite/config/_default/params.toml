@@ -22,7 +22,7 @@ search = true
 image = "images/promotion.png"
 link = "https://gethugothemes.com/"
 [banner]
-background_image = "/images/banner-bg-shape.svg"
+background_image = "exampleSite/static/images/banner-bg-shape.svg"
 button_label = "Explore"
 button_link = "about/"
 content = "BabytoMother guide women for a personal development, education, healthcare and child care"
