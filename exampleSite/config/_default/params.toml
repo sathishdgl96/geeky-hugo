@@ -27,7 +27,7 @@ button_label = "Know About Me"
 button_link = "about/"
 content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
 enable = true
-image = "images/banner.png"
+image = "/exampleSite/static/images/banner-nobg.png"
 title_large = "Welcome **!**"
 title_small = "to Jhon Bravo Blog"
 [cookies]
