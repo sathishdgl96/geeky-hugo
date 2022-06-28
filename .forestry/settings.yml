@@ -83,7 +83,7 @@ sections:
 - type: document
   path: exampleSite/config/_default/menus.de.toml
   label: Menu (de)
-upload_dir: exampleSite/static/images
+upload_dir: images
 public_path: exampleSite/static/images
 front_matter_path: ''
 use_front_matter_path: false
