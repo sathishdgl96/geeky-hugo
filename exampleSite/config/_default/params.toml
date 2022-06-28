@@ -23,9 +23,9 @@ image = "images/promotion.png"
 link = "https://gethugothemes.com/"
 [banner]
 background_image = "/images/banner-bg-shape.svg"
-button_label = "Know About Me"
+button_label = "Explore"
 button_link = "about/"
-content = "Are Developer and recently started your own business Already made website to ensure presence wants to develop."
+content = "BabytoMother guide women for a personal development, education, healthcare and child care"
 enable = true
 image = "exampleSite/static/images/banner-nobg.png"
 title_large = "Welcome **!**"
