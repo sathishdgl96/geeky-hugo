@@ -2,7 +2,6 @@
 categories = ["lifestyle"]
 date = 2021-01-24T12:19:25Z
 description = "meta description"
-draft = true
 image = "images/post/post-6.png"
 title = "What 10 things have you stopped doing in your life?"
 type = "featured"
