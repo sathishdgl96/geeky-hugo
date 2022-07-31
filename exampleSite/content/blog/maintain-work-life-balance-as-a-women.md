@@ -3,7 +3,7 @@ categories = ["work", "selfcare"]
 date = 2022-07-30T18:30:00Z
 description = "It's easy to lose sight of the importance of work-life balance. After all, we're all busy! But if you want to be successful as both an employee and a leader in your field, it's important that you maintain a healthy balance between your personal life and professional activities."
 draft = true
-image = "images/post/post-2.png"
+image = "/images/work-life-balance.jpg"
 title = "Maintain work-life balance as a women"
 type = "featured"
 
