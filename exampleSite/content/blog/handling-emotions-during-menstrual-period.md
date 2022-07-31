@@ -3,7 +3,7 @@ categories = ["lifestyle", "health"]
 date = 2022-07-30T18:30:00Z
 description = "The menstrual cycle can be a very emotional time for women. There are many reasons why you may feel this way, but there is one common thread that runs through all of them: your emotions are strong during this time."
 draft = true
-image = "/images/travel-women.jpg"
+image = "/images/emotion-mix.jpg"
 title = "Handling emotions during menstrual period"
 type = "featured"
 
