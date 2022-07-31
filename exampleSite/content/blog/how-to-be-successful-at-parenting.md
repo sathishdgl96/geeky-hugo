@@ -1,9 +1,9 @@
 +++
 categories = ["parenting", "mother", "baby"]
 date = 2022-07-30T18:30:00Z
-description = "meta description"
+description = "Parenting can be one of the most difficult and rewarding experiences, but it's also one of those things that we all want to do well. The best way to be a successful parent is not just by having all the right answers but also by being open-minded and willing to learn from other parents' experience"
 draft = true
-image = "images/post/post-3.png"
+image = "/images/parenting.jpg"
 title = "How to be successful at parenting"
 type = "featured"
 
