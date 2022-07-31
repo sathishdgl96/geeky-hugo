@@ -4,7 +4,7 @@ description: There are a number of benefits to women-owned business incubators. 
   they provide a supportive environment specifically geared towards the success of
   women entrepreneurs. This can be extremely helpful for women who are starting their
   businesses from scratch, as it can be a very daunting task.
-image: ''
+image: "/images/business-women.jpg"
 date: 2022-07-31T00:00:00+05:30
 categories:
 - business
