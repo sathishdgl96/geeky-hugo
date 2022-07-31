@@ -3,7 +3,7 @@ categories = ["lifestyle", "healthcare"]
 date = 2022-07-30T18:30:00Z
 description = "The flu is a serious illness that can lead to hospitalization and even death. Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences. It's important to get vaccinated during your pregnancy because you may be at higher risk for developing certain health problems, such as preeclampsia or premature birth than someone who isn't pregnant. "
 draft = true
-image = "/images/travel-women.jpg"
+image = "/images/pregnant-mom.jpg"
 title = "Vaccine for pregnant women"
 type = "featured"
 
