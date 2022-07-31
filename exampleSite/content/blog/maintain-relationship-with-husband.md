@@ -3,7 +3,7 @@ categories = ["relationship", "selfcare"]
 date = 2022-07-30T18:30:00Z
 description = "meta description"
 image = "/images/healthy-relationship.jpg"
-title = "How to maintain healthy relationship "
+title = "How to maintain healthy relationship with your husband"
 type = "featured"
 
 +++
