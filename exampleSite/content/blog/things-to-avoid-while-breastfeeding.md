@@ -2,8 +2,7 @@
 categories = ["health", "babycare"]
 date = 2022-07-30T18:30:00Z
 description = "Breastfeeding is a great experience for the mother and child. It's also great for your health and can help you feel comfortable in your own skin. However, there are some things that should be avoided when breastfeeding in order to ensure both of you have a healthy and safe bonding experience."
-draft = true
-image = "/images/travel-women.jpg"
+image = "/images/mom-baby.jpg"
 title = "Things to avoid while breastfeeding"
 type = "featured"
 
