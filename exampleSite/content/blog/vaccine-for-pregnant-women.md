@@ -8,79 +8,81 @@ title = "Vaccine for pregnant women"
 type = "featured"
 
 +++
-**If you're traveling alone, as a woman and without your partner, it's important to be safe. You can't just go abroad by yourself and think everything is going to be fine. There are some countries that are more dangerous for women than others, and here we've compiled a list of the safest places for women travelers in Europe.**
+The flu is a serious illness that can lead to hospitalization and even death. Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences. It's important to get vaccinated during your pregnancy because you may be at higher risk for developing certain health problems, such as preeclampsia or premature birth than someone who isn't pregnant. Furthermore, if you get the flu while pregnant, there's a chance that your baby could develop complications like pneumonia or sepsis due to lack of immunity caused by maternal infection with flu virus during pregnancy itself (source).
 
-#### Finland
+#### The flu vaccine is safe for pregnant women and their babies.
 
-Finland is one of the safest places for women travellers. The country has a low crime rate, and there are no restrictions on where you can go or what you can do in Finland.
+The flu vaccine is safe for pregnant women and their babies.
 
-You can travel alone, or with friends or family members. You can easily get around by train, bus or car (but not by plane). Most hotels will give free Wi-Fi access so you don't have to worry about being away from home too long!
+The Centers for Disease Control and Prevention (CDC) recommends that pregnant women receive the seasonal influenza vaccine each year as soon as it becomes available in their area. It's also important to make sure you get vaccinated if you're planning on getting pregnant in the next year or have recently given birth.
 
-In addition to all these advantages, Finland also offers plenty of natural beauty: forests with mosses and fungi growing on trees; lakes surrounded by mountains; rivers full of salmon fishing holes; hot springs where tourists come every year after they've seen everything else they wanted to see elsewhere
+In addition to protecting against seasonal influenza, vaccines can help protect infants from several infections your baby might develop during the first year of life, including pneumonia and diarrhea caused by rotavirus; hepatitis A virus infection; Haemophilus influenzae type b (Hib) bacteria infection; pneumococcal disease—the most common cause of ear disease among children under 5 years old—and meningitis caused by Neisseria meningitidis bacteria
 
-## Germany
+#### Flu vaccine can protect both mother and baby from flu.
 
-While it's true that Germany is one of the safest countries in Europe, there are still some things you can do to stay safe while traveling through this country. If possible, avoid traveling alone and at night in general. Always keep an eye out for your surroundings and try not to walk through deserted areas after dark.
+* The flu vaccine is safe for pregnant women and their babies.
+* Flu vaccine can protect both mother and baby from flu.
+* Flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women.
 
-If you are traveling with a group of friends or family members, make sure each person has their own room (or hotel) so that if something does happen—you'll have somewhere safe to run! Travelers should also remember how much alcohol is consumed at any given time; too much alcohol can lead people into dangerous situations which may not be there fault but theirs nonetheless."
+#### Pregnant women who get a flu shot pass protection to their babies.
 
-#### Luxembourg
+Pregnant women who get a flu shot pass protection to their babies. That’s because the flu vaccine is made from proteins that are present in human breast milk and blood, so it can travel through the placenta to the fetus.
 
-Luxembourg is the safest country in the world for women travelers.
+The flu vaccine has been shown to reduce hospitalization rates by 50 percent, according to the Centers for Disease Control and Prevention (CDC).
 
-It's a small country in Europe, with a low crime rate and an excellent quality of life.
+#### The flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women.
 
-In fact, according to the 2018 State Department Travel Advisory: "Luxembourg has been rated as 'excellent' for safety and security."
+The flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women. It’s safe for you and your baby, even during pregnancy.
 
-#### New Zealand
+The flu shot also protects against other viruses that can cause serious illness in both adults and children — including croup, pneumonia and bronchitis — so you're less likely to get sick when someone else is sick around you.
 
-* New Zealand is a beautiful country.
-* It's safe and clean, with good infrastructure, a well-developed tourist industry, a good climate and economy, an excellent education system and healthcare system.
+If a pregnant woman has had a severe reaction to an immunization before, she should wait at least two weeks after receiving an immunization before getting another one. If this happens again with any vaccines given during pregnancy (including influenza) then they should not be received again until after delivery or miscarriage
 
-## Iceland
+#### Vaccination can keep pregnant women out of the hospital.
 
-Iceland is one of the safest countries in the world, and it's a great place to visit as a solo female traveler. In fact, Iceland has one of the lowest crime rates in Europe. You'll be safe there!
+The flu vaccine can help protect you and your baby from a serious illness. While there are no studies that show the vaccine helps prevent hospitalization in pregnant women, it does offer protection against many common flu complications that can be dangerous for both mom and baby.
 
-Iceland is also a very safe country for solo female backpackers (and anyone else who travels alone). The Icelandic National Police Force patrols every street and town with police cars equipped with GPS tracking devices so they can follow up on any suspicious activity that may occur while you're out exploring by yourself.
+* Flu-related hospitalizations: A study done by researchers at the U.S. Centers for Disease Control and Prevention (CDC) found that among people who were hospitalized with influenza, those who got the seasonal flu vaccine had a lower risk of being hospitalized with pneumonia or respiratory infection such as bronchitis or sinusitis than those who did not get vaccinated during their first three months after receiving their seasonal flu shot (1).
+* Newborns: Newborns are more likely than adults to develop serious complications from the flu because they still have low levels of immunity due to their small size and immature immune systems at birth or even before birth when they were exposed through breastfeeding milk (2). In fact, infants under six months old whose mothers get vaccinated against influenza before delivery may already be protected until around six months old when it's too late for them because their mother hasn't received enough doses yet!
 
-#### Denmark, Norway, Sweden and Austria tie for 5th place
+#### Maternal vaccination does not appear to pose any risk for miscarriage or adverse pregnancy outcomes.
 
-Denmark, Norway, Sweden and Austria are the top five safest countries for women travelers.
+Vaccination does not appear to pose any risk for miscarriage or adverse pregnancy outcomes. The Centers for Disease Control and Prevention (CDC) recommends that all pregnant women receive a flu shot every year, but there is no evidence that getting vaccinated during pregnancy will increase the risk of preterm birth or low birth weight. There is also no evidence that maternal vaccination increases your child’s risk of autism or cancer later in life.
 
-According to the World Economic Forum's 2018 Travel & Tourism Competitiveness Report, all four nations scored very highly on several other metrics including healthcare, education and life expectancy—the latter two being especially important when it comes to safety. In addition to having low crime rates (Sweden has one of the lowest murder rates in Europe), these countries also score well on corruption indices: Denmark's score was 7 out of 100; Norway came in at 11th place; Sweden was 16th and Austria 19th.
+#### Getting a flu shot during pregnancy helps babies after they are born, too.
 
-#### Sri Lanka
+When you get a flu vaccine during pregnancy, it can help protect both you and your baby from flu. This is because the vaccine contains protection against three types of viruses that cause influenza:
 
-Sri Lanka is a great place for women travelers, as it's safe, beautiful and affordable. It's also a great place to learn more about Buddhism or Hinduism.
+* H1N1 (also known as swine flu)
+* A/H3N2 (a different strain than seasonal H1N1)
+* B virus
 
-The country itself is beautiful and has several popular tourist attractions including the golden temple at Kandy and the ruins of ancient Anuradhapura (the capital city).
+#### Babies born to vaccinated mothers have less chance of being hospitalized with the flu.
 
-## Canada
+A study published in the journal Pediatrics found that babies born to vaccinated mothers have less chance of being hospitalized with the flu. The research also found that babies born to unvaccinated mothers were more likely than those vaccinated against H1N1 or other strains to be hospitalized and die from complications related to their flu infection.
 
-Canada is a safe country for women to travel alone. In fact, it's one of the most gender-equal countries in the world.
+#### Getting vaccinated is as important after delivery as it is before delivery.  This includes postpartum care too!
 
-Women can travel to Canada without being scared or worried about safety. They can go anywhere they want and do anything they want without fear of violence or harassment from anyone around them—including men!
+Getting vaccinated is as important after delivery as it is before pregnancy. This includes postpartum care, which can be especially important for new mothers who have a higher risk of infection. The immune system of a baby is still susceptible to infections until he or she reaches the age of 2 years old, so vaccination at this time can help protect your child from potentially dangerous diseases and illnesses.
 
-#### Barbados and Malta tie for 8th place
+Vaccination protects both mom and baby by creating antibodies that help fight off some types of germs in early life, thereby preventing them from developing into full-blown disease later on in life (when they may cause serious health problems). Vaccinations also activate protective cells called T lymphocytes that patrol your body to fight off foreign invaders like viruses or bacteria by releasing specific proteins called cytokines into nearby tissues where they can bind onto exposed targets such as cells infected with certain pathogens found within different types/strains thereof--which ultimately results
 
-For its Caribbean location and beautiful beaches, Barbados is a safe place for women travelers. It's also home to some of the most luxurious hotels in the world.
+#### Newborns are at high risk of serious illness if they get the flu.  They can't get vaccinated until they are 6 months old but they can still get protection if the mother has been previously vaccinated or if she is in close contact with someone who has been vaccinated.
 
-Malta is another Mediterranean island that has earned itself a spot on this list. It has gorgeous views, great food and drink (and wine), and even more beautiful people who speak English fluently!
+Newborns are at high risk of serious illness if they get the flu. They can't get vaccinated until they are 6 months old but they can still get protection if the mother has been previously vaccinated or if she is in close contact with someone who has been vaccinated.
 
-#### Switzerland.
+The American Academy of Pediatrics recommends that all newborns be given a shot within 24 hours of birth to help prevent them from getting sick from viruses like influenza and rhinovirus (the stuff that sneezes). If you live in a place where flu is common, then your doctor may recommend this vaccination for your baby before or shortly after it's born.
 
-Switzerland is a safe country. It has the lowest crime rate among all European nations and is one of the safest places in the world. The Swiss are known for their punctuality, politeness, and cleanliness (a fact that could be due to their gene pool).
+Newborn babies should also receive an initial series of vaccines at 2 weeks, 4 weeks and 6 months old before leaving their home environment so they're protected against many diseases while still being able to go out into public places without worrying about catching something contagious like chicken pox or measles while taking care not only themselves but also other people around them too!
 
-Switzerland is also a small country with only about 8 million inhabitants who enjoy being able to go hiking or skiing without having to worry about being mugged by some guy trying to steal your wallet while you're at it! The Swiss don't get as much attention from tourists as other European countries do but they should definitely be on your list if you're looking for an adventure-packed holiday destination that won't cost too much money either!
+#### Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences
 
-#### travel tips
+Flu vaccine is safe for pregnant women, and can protect both mother and baby from flu.
 
-The following are some of the top safety tips for women traveling:
+The Centers for Disease Control and Prevention (CDC) recommends that all people 6 months of age or older get a flu vaccination each year, even if they never get sick with the disease. The best way to reduce the risk of developing severe illness from infection with influenza A viruses is to prevent them in the first place. Flu vaccination protects against both types of flu viruses that cause most infections each season — type A (H1N1)pdm09 virus and B viruses — as well as other strains that may appear later in the year. It's also important to note that pregnant women who receive an annual flu vaccine during pregnancy have an increased chance of having their babies born healthy at birth compared with those who do not receive this shot during pregnancy
 
-* Join an organization that has a scholarship program.
-* If you can't afford to join an organization, look into volunteering with one that focuses on women's issues and safety.
-* Look into travel insurance policies, especially if you're taking a trip alone or with just one other person in your party.
+#### Summary
 
-#### Conclusion
+I hope this article has given you a little more information about what the flu vaccine is, how it works, and why it's important for pregnant women to get vaccinated. If you have any questions or comments, please feel free to leave them below or send me an email at \[email protected\] Thank You!
 
-The above is a list of the safest countries in the world for women to travel solo. We hope this guide has helped you find your next destination, and that you have enjoyed reading it as much as we did creating it!
+**Disclaimer:**  Consult doctor before taking any medication or vaccine. We are not responsible for any consequences
