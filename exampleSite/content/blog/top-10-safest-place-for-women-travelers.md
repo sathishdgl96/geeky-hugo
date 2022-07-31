@@ -2,7 +2,6 @@
 categories = ["lifestyle", "travel"]
 date = 2022-07-30T18:30:00Z
 description = "If you're traveling alone, as a woman and without your partner, it's important to be safe. You can't just go abroad by yourself and think everything is going to be fine. There are some countries that are more dangerous for women than others, and here we've compiled a list of the safest places for women travelers in Europe."
-draft = true
 image = "/images/travel-women.jpg"
 title = "Top 10 safest place for women travelers 2022"
 type = "featured"
