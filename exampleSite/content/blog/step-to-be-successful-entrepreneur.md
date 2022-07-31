@@ -1,6 +1,6 @@
 +++
-categories = ["assistant"]
-date = 2021-01-24T12:19:25Z
+categories = ["business", "entrepreneur"]
+date = 2022-07-30T18:30:00Z
 description = "Before you can be successful, you have to have the understanding of what success looks like. It’s not enough to just want it; you need to know what it is and how to get there"
 image = "images/post/post-3.png"
 title = "Step to be Successful Entrepreneur ?"
