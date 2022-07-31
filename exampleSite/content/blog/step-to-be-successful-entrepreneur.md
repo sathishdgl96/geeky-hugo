@@ -7,8 +7,6 @@ title = "Steps to become a successful entrepreneur"
 type = "featured"
 
 +++
-#### Introduction
-
 Entrepreneurship is not about being a genius. It's about being flexible, smart, and realistic.
 
 #### You need a good entrepreneur before you can be a good entrepreneur.
