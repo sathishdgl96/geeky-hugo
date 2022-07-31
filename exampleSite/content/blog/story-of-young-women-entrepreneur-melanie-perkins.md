@@ -2,7 +2,6 @@
 categories = ["lifestyle", "success-story"]
 date = 2022-07-30T18:30:00Z
 description = "Melanie Perkins is the founder of Canva, a company that makes it easy for people to create beautiful graphics online. She was born in Australia but moved to San Francisco, USA when she was 10 years old. Her parents ran their own business together and inspired Melanie's love for business as well as her mother who runs her own business now too"
-draft = true
 image = "/images/melene-parkins.jpeg"
 title = "Story of young women entrepreneur - Melanie Perkins"
 type = "featured"
