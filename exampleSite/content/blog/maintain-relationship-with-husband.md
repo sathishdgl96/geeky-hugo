@@ -2,7 +2,6 @@
 categories = ["relationship", "selfcare"]
 date = 2022-07-30T18:30:00Z
 description = "meta description"
-draft = true
 image = "/images/healthy-relationship.jpg"
 title = "How to maintain healthy relationship "
 type = "featured"
