@@ -14,8 +14,6 @@ type: featured
 ---
 **There are a number of benefits to women-owned business incubators. First, they provide a supportive environment specifically geared towards the success of women entrepreneurs. This can be extremely helpful for women who are starting their businesses from scratch, as it can be a very daunting task.**
 
-![Business women](/images/business-women.jpg "Business women")
-
 Second, women-owned business incubators tend to have a strong focus on networking. This is important for any business owner, but especially for women, who often face challenges when it comes to networking and making connections.
 
 Third, these incubators typically offer a variety of resources and services that can be extremely helpful for women entrepreneurs. This can include everything from business advice and mentorship to office space and funding.
