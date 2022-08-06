@@ -8,7 +8,7 @@ title = "Single mom and Son"
 type = "featured"
 
 +++
-I've always been a very proud and protective mother. Of course, this means that when my son was born, I was ready to fight for him with every ounce of energy in my body. And that's exactly what happened: I fought for him! But there were times when I wasn't fighting so much as just existing as mothers —and as people who wanted my kids to grow up healthy and happy, which isn't always easy when all the world tells you is how terrible girls are (or how bad boys are). But now that my son is older than preschool age (and has even started kindergarten!), it's time for me both to change so that I can show him what being an ethical human being looks like—and how being an adult woman should be possible no matter who she is or where she lives.
+I've always been a very proud and protective mother. Of course, this means that when my son was born, I was ready to fight for him with every ounce of energy in my body. And that's exactly what happened: I fought for him! But there were times when I wasn't fighting so much as just existing as mothers —and as people who wanted my kids to grow up healthy and happy, which isn't always easy when all the world tells you is how terrible girls are (or how bad boys are). But now that my son is older than preschool age (and has even started kindergarten!), it's time for me to change so that I can show him what being an ethical human being looks like—and how being an adult woman should be possible no matter who she is or where she lives.
 
 ### 8 Ways to Teach Your Son What It Means to Be a Good Man
 
