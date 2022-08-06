@@ -1,88 +1,82 @@
 +++
 categories = ["healthcare", "baby"]
-date = 2022-07-30T18:30:00Z
-description = "The flu is a serious illness that can lead to hospitalization and even death. Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences. It's important to get vaccinated during your pregnancy because you may be at higher risk for developing certain health problems, such as preeclampsia or premature birth than someone who isn't pregnant. "
+date = 2022-08-05T18:30:00Z
+description = "I've always been a very proud and protective mother. Of course, this means that when my son was born, I was ready to fight for him with every ounce of energy in my body. And that's exactly what happened: I fought for him! But there were times when I wasn't fighting so much as just existing as mothers"
 draft = true
 image = "/images/pregnant-mom.jpg"
 title = "Single mom and Son"
 type = "featured"
 
 +++
-The flu is a serious illness that can lead to hospitalization and even death. Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences. It's important to get vaccinated during your pregnancy because you may be at higher risk for developing certain health problems, such as preeclampsia or premature birth than someone who isn't pregnant. Furthermore, if you get the flu while pregnant, there's a chance that your baby could develop complications like pneumonia or sepsis due to lack of immunity caused by maternal infection with flu virus during pregnancy itself (source).
+I've always been a very proud and protective mother. Of course, this means that when my son was born, I was ready to fight for him with every ounce of energy in my body. And that's exactly what happened: I fought for him! But there were times when I wasn't fighting so much as just existing as mothers —and as people who wanted my kids to grow up healthy and happy, which isn't always easy when all the world tells you is how terrible girls are (or how bad boys are). But now that my son is older than preschool age (and has even started kindergarten!), it's time for me both to change so that I can show him what being an ethical human being looks like—and how being an adult woman should be possible no matter who she is or where she lives.
 
-#### The flu vaccine is safe for pregnant women and their babies.
+### 8 Ways to Teach Your Son What It Means to Be a Good Man
 
-The flu vaccine is safe for pregnant women and their babies.
+* Teach your son about consent.
+* Show him that respect means in action, not just words.
+* Emphasize that emotion is not weakness and that empathy is crucial to happiness and success.
 
-The Centers for Disease Control and Prevention (CDC) recommends that pregnant women receive the seasonal influenza vaccine each year as soon as it becomes available in their area. It's also important to make sure you get vaccinated if you're planning on getting pregnant in the next year or have recently given birth.
+#### 1. Teach him about consent.
 
-In addition to protecting against seasonal influenza, vaccines can help protect infants from several infections your baby might develop during the first year of life, including pneumonia and diarrhea caused by rotavirus; hepatitis A virus infection; Haemophilus influenzae type b (Hib) bacteria infection; pneumococcal disease—the most common cause of ear disease among children under 5 years old—and meningitis caused by Neisseria meningitidis bacteria
+* Teach him about consent
+* Consent is a word that can be difficult to define, but it's the agreement between two or more people before any conduct takes place that matters. You should make sure your child understands what consent means and how to ask for it from others (and also how not to ask for it!). For example: "Can I play with this toy?" vs "Would you like me to play with this toy?"
+* Teach him about safe sex practices
+* Sex is an important part of growing up, so talk openly with your son about the facts around safe sex practices, including birth control methods like condoms and emergency contraception pills (ECP). If there are any questions he has about these topics they might not be able to answer alone, have someone in his life who can help guide him through them—a parent or mentor could work well here!
 
-#### Flu vaccine can protect both mother and baby from flu.
+#### 2. Show him what respect means in action.
 
-* The flu vaccine is safe for pregnant women and their babies.
-* Flu vaccine can protect both mother and baby from flu.
-* Flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women.
+You can show your son respect by showing him what it means in action.
 
-#### Pregnant women who get a flu shot pass protection to their babies.
+* Respect is a two-way street. It's not just about what you say, but also how you act and how you treat others. When we are respectful of others, they feel respected as well—and then they will also be able to treat us with respect!
+* Showing respect doesn't mean that we have to agree with everything someone says or does—but it does mean being honest and open about our thoughts so that we can communicate effectively together as equals rather than adversaries (which often happens when people aren't clear about what their expectations are).
+* Being respectful doesn't mean agreeing all the time; it means listening attentively when someone has an opinion worth considering before deciding whether or not those ideas make sense for both parties involved
 
-Pregnant women who get a flu shot pass protection to their babies. That’s because the flu vaccine is made from proteins that are present in human breast milk and blood, so it can travel through the placenta to the fetus.
+### 3. Teach him that emotion is not weakness.
 
-The flu vaccine has been shown to reduce hospitalization rates by 50 percent, according to the Centers for Disease Control and Prevention (CDC).
+Emotion is not weakness. It's a sign of strength and love, and it can be found in the most unexpected places. When your son has a tough time at school or gets into an argument with his parents, don't scold him for being emotional—you should praise him for being able to express himself so clearly!
 
-#### The flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women.
+Even when he does something wrong, teach him that emotions are OK and there are no hard-and-fast rules about how you should feel about certain things (e.g., your friend moved away).
 
-The flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women. It’s safe for you and your baby, even during pregnancy.
+#### 4. Draw the lines between sex and intimacy, because they're not always the same thing.
 
-The flu shot also protects against other viruses that can cause serious illness in both adults and children — including croup, pneumonia and bronchitis — so you're less likely to get sick when someone else is sick around you.
+In the same way that sex is not necessarily the same thing as intimacy, it's also not always the same thing. Sex can be used to express love and affection, or vice versa. It's important to remember that these two things aren't mutually exclusive: sometimes you want someone physically close but emotionally distant; other times you want a partner who will give you space but still hold your hand when needed; sometimes both at once!
 
-If a pregnant woman has had a severe reaction to an immunization before, she should wait at least two weeks after receiving an immunization before getting another one. If this happens again with any vaccines given during pregnancy (including influenza) then they should not be received again until after delivery or miscarriage
+But regardless of how often we experience these feelings within ourselves (or others), they don't stop there—sex isn't just physical pleasure; it's also an act of communication between two people who care about each other deeply enough for them both to give up something precious for one another without hesitation or reservation whatsoever...and sometimes even after knowing each other for years!
 
-#### Vaccination can keep pregnant women out of the hospital.
+#### 5. Emphasize that empathy is crucial to happiness and success.
 
-The flu vaccine can help protect you and your baby from a serious illness. While there are no studies that show the vaccine helps prevent hospitalization in pregnant women, it does offer protection against many common flu complications that can be dangerous for both mom and baby.
+Empathy is a key to success, happiness and success.
 
-* Flu-related hospitalizations: A study done by researchers at the U.S. Centers for Disease Control and Prevention (CDC) found that among people who were hospitalized with influenza, those who got the seasonal flu vaccine had a lower risk of being hospitalized with pneumonia or respiratory infection such as bronchitis or sinusitis than those who did not get vaccinated during their first three months after receiving their seasonal flu shot (1).
-* Newborns: Newborns are more likely than adults to develop serious complications from the flu because they still have low levels of immunity due to their small size and immature immune systems at birth or even before birth when they were exposed through breastfeeding milk (2). In fact, infants under six months old whose mothers get vaccinated against influenza before delivery may already be protected until around six months old when it's too late for them because their mother hasn't received enough doses yet!
+It’s important to teach your children that they can help others by understanding how they feel and why they do what they do.
 
-#### Maternal vaccination does not appear to pose any risk for miscarriage or adverse pregnancy outcomes.
+#### 6. Don't limit his gender expression or your own, and show him how fun it can be to break free of norms and stereotypes.
 
-Vaccination does not appear to pose any risk for miscarriage or adverse pregnancy outcomes. The Centers for Disease Control and Prevention (CDC) recommends that all pregnant women receive a flu shot every year, but there is no evidence that getting vaccinated during pregnancy will increase the risk of preterm birth or low birth weight. There is also no evidence that maternal vaccination increases your child’s risk of autism or cancer later in life.
+You don't have to be a parent to know that gender expression is not just about clothing and appearance. It's also a matter of behavior, which includes things like how you speak, act, and behave in public spaces. Gender performance can take many forms:
 
-#### Getting a flu shot during pregnancy helps babies after they are born, too.
+* Gender identity (how you identify yourself)
+* Gender presentation (how you present yourself to others)
+* Intersex status (whether your anatomy falls somewhere between male or female).
 
-When you get a flu vaccine during pregnancy, it can help protect both you and your baby from flu. This is because the vaccine contains protection against three types of viruses that cause influenza:
+#### 7. Give him more than one model of masculinity to choose from.
 
-* H1N1 (also known as swine flu)
-* A/H3N2 (a different strain than seasonal H1N1)
-* B virus
+* Show him that there are many ways to be a man.
+* Show him that there are many ways to be a woman.
+* Show him that there are many ways to be a human being, and not just the one way you think he should or should not choose.
 
-#### Babies born to vaccinated mothers have less chance of being hospitalized with the flu.
+#### 8. Show him that you love being a woman, and that women are not inferior or second-rate to men in any way, shape or form! (Even if you have to fake it sometimes.)
 
-A study published in the journal Pediatrics found that babies born to vaccinated mothers have less chance of being hospitalized with the flu. The research also found that babies born to unvaccinated mothers were more likely than those vaccinated against H1N1 or other strains to be hospitalized and die from complications related to their flu infection.
+You can show your son that you love being a woman, and that women are not inferior or second-rate to men in any way, shape or form! (Even if you have to fake it sometimes.)
 
-#### Getting vaccinated is as important after delivery as it is before delivery.  This includes postpartum care too!
+You can be strong as a woman while still being strong enough to raise your son by yourself. You don't have to sacrifice your femininity in order to be a good mother. In fact, if anything it might make you more of an obstacle for him later on in life when he comes across stereotypes about women and their roles—and believes them because they're perpetuated by society at large.
 
-Getting vaccinated is as important after delivery as it is before pregnancy. This includes postpartum care, which can be especially important for new mothers who have a higher risk of infection. The immune system of a baby is still susceptible to infections until he or she reaches the age of 2 years old, so vaccination at this time can help protect your child from potentially dangerous diseases and illnesses.
+#### A good man respects women without feeling threatened by them
 
-Vaccination protects both mom and baby by creating antibodies that help fight off some types of germs in early life, thereby preventing them from developing into full-blown disease later on in life (when they may cause serious health problems). Vaccinations also activate protective cells called T lymphocytes that patrol your body to fight off foreign invaders like viruses or bacteria by releasing specific proteins called cytokines into nearby tissues where they can bind onto exposed targets such as cells infected with certain pathogens found within different types/strains thereof--which ultimately results
+A good man respects women without feeling threatened by them.
 
-#### Newborns are at high risk of serious illness if they get the flu.  They can't get vaccinated until they are 6 months old but they can still get protection if the mother has been previously vaccinated or if she is in close contact with someone who has been vaccinated.
+A good man respects women's right to make their own decisions, and he will not try to change them or tell them what they should be doing. For example, if a woman wants to wear pants instead of shorts when she plays tennis outdoors in the summertime, that's her choice as long as it doesn't affect anyone else on their team or at an event like this one (like other players' comfort). She also has the right not only to wear whatever she wants but also how ever much clothing she desires—even if it means wearing things like leggings instead of tights!
 
-Newborns are at high risk of serious illness if they get the flu. They can't get vaccinated until they are 6 months old but they can still get protection if the mother has been previously vaccinated or if she is in close contact with someone who has been vaccinated.
+A good man respects a woman's body no matter what size/shape/type/color etc., just like I respect yours! There are no double standards here either: If someone tells us our bodies aren't good enough then we should ignore them because nobody likes hearing negative comments about ourselves anyway...i mean really who would want another opinion on how beautiful they look?"
 
-The American Academy of Pediatrics recommends that all newborns be given a shot within 24 hours of birth to help prevent them from getting sick from viruses like influenza and rhinovirus (the stuff that sneezes). If you live in a place where flu is common, then your doctor may recommend this vaccination for your baby before or shortly after it's born.
+#### Conclusion
 
-Newborn babies should also receive an initial series of vaccines at 2 weeks, 4 weeks and 6 months old before leaving their home environment so they're protected against many diseases while still being able to go out into public places without worrying about catching something contagious like chicken pox or measles while taking care not only themselves but also other people around them too!
-
-#### Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences
-
-Flu vaccine is safe for pregnant women, and can protect both mother and baby from flu.
-
-The Centers for Disease Control and Prevention (CDC) recommends that all people 6 months of age or older get a flu vaccination each year, even if they never get sick with the disease. The best way to reduce the risk of developing severe illness from infection with influenza A viruses is to prevent them in the first place. Flu vaccination protects against both types of flu viruses that cause most infections each season — type A (H1N1)pdm09 virus and B viruses — as well as other strains that may appear later in the year. It's also important to note that pregnant women who receive an annual flu vaccine during pregnancy have an increased chance of having their babies born healthy at birth compared with those who do not receive this shot during pregnancy
-
-#### Summary
-
-I hope this article has given you a little more information about what the flu vaccine is, how it works, and why it's important for pregnant women to get vaccinated. If you have any questions or comments, please feel free to leave them below or send me an email at \[email protected\] Thank You!
-
-**Disclaimer:**  Consult doctor before taking any medication or vaccine. We are not responsible for any consequences
+We know that raising a good man can be challenging, but it’s not impossible. You just have to keep in mind the things we outlined above, and stay positive about your son’s future. Hopefully, with some careful planning and lots of love, you can make it through this journey together!
