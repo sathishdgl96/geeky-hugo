@@ -1,9 +1,9 @@
 +++
 categories = ["success-story", "business"]
-date = 2022-07-30T18:30:00Z
+date = 2022-08-05T18:30:00Z
 description = "Beyonce has a lot to keep up with. She's a singer, dancer and actress. She also has a business empire that includes several brands and restaurants. But at the top of her list is music — she's released an album every year since 2003! That's more than any other artist has managed in one decade (except maybe Taylor Swift)."
 draft = true
-image = "/images/pregnant-mom.jpg"
+image = "/images/beyonce.png"
 title = "Story of Successful Business Women - Beyonce Biography"
 type = "featured"
 
@@ -22,7 +22,7 @@ Growing up in a Christian household helped shape Beyoncé's upbringing as well a
 
 Beyonce began her music career at age 14, when she signed a recording contract with Columbia Records. Her debut album, Dangerously in Love (2003), was a success and became certified 4x platinum within two months of its release. The following year she released her second album, Diva (2004), which debuted at number one on the Billboard 200 chart and earned Grammy nominations for Best Female R&B Vocal Performance ("Crazy in Love"), Best Contemporary R&B Album ("Diva"), and Best Non-Classical Recording for "End Of Time".
 
-#### Beyonce's third studio album I Am... Sasha Fierce was released in 2008; it became another success as it entered at number one on the Billboard 200 chart with sales over 1 million units sold in its first week alone. Her fourth studio album 4 was released in November 2010 by Columbia Records which peaked at number one on both Billboard 200 albums chart becoming Beyoncé's fourth consecutive solo number one album release. In 2013 Beyoncé released her fifth studio album entitled 5 which debuted at #1 on charts across North America including Top 10 positions worldwide including Australia (#6), United Kingdom (#7).
+###### Beyonce's third studio album I Am... Sasha Fierce was released in 2008; it became another success as it entered at number one on the Billboard 200 chart with sales over 1 million units sold in its first week alone. Her fourth studio album 4 was released in November 2010 by Columbia Records which peaked at number one on both Billboard 200 albums chart becoming Beyoncé's fourth consecutive solo number one album release. In 2013 Beyoncé released her fifth studio album entitled 5 which debuted at #1 on charts across North America including Top 10 positions worldwide including Australia (#6), United Kingdom (#7).
 
 #### Film Career
 
