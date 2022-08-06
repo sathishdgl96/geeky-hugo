@@ -1,88 +1,85 @@
 +++
 categories = ["healthcare", "baby"]
-date = 2022-07-30T18:30:00Z
-description = "The flu is a serious illness that can lead to hospitalization and even death. Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences. It's important to get vaccinated during your pregnancy because you may be at higher risk for developing certain health problems, such as preeclampsia or premature birth than someone who isn't pregnant. "
+date = 2022-08-05T18:30:00Z
+description = "Pregnant women may gain weight during pregnancy, but not everyone does. The average weight gain for a woman at term is 25-35 pounds. Some women may gain more, some less. When your body has been pregnant for a long time, it can be hard to get back into shape after giving birth—but if you do lose all the weight you gained during pregnancy and then gain it again, that's called excess weight."
 draft = true
 image = "/images/pregnant-mom.jpg"
 title = "Handling Obesity after Delivery "
 type = "featured"
 
 +++
-The flu is a serious illness that can lead to hospitalization and even death. Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences. It's important to get vaccinated during your pregnancy because you may be at higher risk for developing certain health problems, such as preeclampsia or premature birth than someone who isn't pregnant. Furthermore, if you get the flu while pregnant, there's a chance that your baby could develop complications like pneumonia or sepsis due to lack of immunity caused by maternal infection with flu virus during pregnancy itself (source).
+Congratulations on having a baby! You're probably wondering about the health of your body and how it will change after childbirth. While breastfeeding can have its own set of challenges, one thing that's not hard to understand is that there are some changes taking place in your body — and these changes can affect your weight loss efforts. But don't worry! Here's what you need to know:
 
-#### The flu vaccine is safe for pregnant women and their babies.
+### Good news! You've had a baby!
 
-The flu vaccine is safe for pregnant women and their babies.
+Congratulations! You've just had a baby! This is an amazing time in your life, and you've probably been feeling some pretty crazy emotions lately. You might be feeling tired, overwhelmed or anxious—but don't worry—you're not alone. In fact, most new mothers experience these feelings at some point during their recovery from pregnancy or childbirth.
 
-The Centers for Disease Control and Prevention (CDC) recommends that pregnant women receive the seasonal influenza vaccine each year as soon as it becomes available in their area. It's also important to make sure you get vaccinated if you're planning on getting pregnant in the next year or have recently given birth.
+After having a baby (or any surgery), it's common for people to experience changes in energy levels and moods that aren't necessarily related to the surgery itself but rather how they're coping with it physically/mentally/emotionally/etc., so don't worry if one day seems off-kilter compared to another; there are likely many factors contributing beyond what has happened recently.
 
-In addition to protecting against seasonal influenza, vaccines can help protect infants from several infections your baby might develop during the first year of life, including pneumonia and diarrhea caused by rotavirus; hepatitis A virus infection; Haemophilus influenzae type b (Hib) bacteria infection; pneumococcal disease—the most common cause of ear disease among children under 5 years old—and meningitis caused by Neisseria meningitidis bacteria
+### Something else you're probably wondering about is your body and weight.
 
-#### Flu vaccine can protect both mother and baby from flu.
+You may have concerns about your body and weight. You are not alone if this is the case, but there are things you can do to make sure that your baby is healthy and well.
 
-* The flu vaccine is safe for pregnant women and their babies.
-* Flu vaccine can protect both mother and baby from flu.
-* Flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women.
+* Talk to your doctor. Your health care provider can help guide you through these changes in the days leading up to delivery as well as during pregnancy and after birth.
+* Eat healthy foods that are low-fat or nonfat dairy products (like milk), whole grains such as oatmeal or pasta with tomato sauce instead of red meat (which contains lots of calories), fruits such as applesauce made from fresh fruit instead of canned fruit juice—and vegetables like carrots cooked until tender but still crisp! These foods will keep both yourself & baby healthy throughout pregnancy/postpartum period too!
 
-#### Pregnant women who get a flu shot pass protection to their babies.
+### Some women lose all of their pregnancy weight but may be heavier than before they became pregnant.
 
-Pregnant women who get a flu shot pass protection to their babies. That’s because the flu vaccine is made from proteins that are present in human breast milk and blood, so it can travel through the placenta to the fetus.
+Pregnant women may gain weight during pregnancy, but not everyone does. The average weight gain for a woman at term is 25-35 pounds. Some women may gain more, some less. When your body has been pregnant for a long time, it can be hard to get back into shape after giving birth—but if you do lose all the weight you gained during pregnancy and then gain it again, that's called "excess weight." You don't have to worry about this if:
 
-The flu vaccine has been shown to reduce hospitalization rates by 50 percent, according to the Centers for Disease Control and Prevention (CDC).
+* You've always been overweight and now are overweight again; or
+* Your doctor says that losing too much weight would put you at risk for complications such as gestational diabetes or high blood pressure
 
-#### The flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women.
+### It can be difficult to lose weight after having a baby, especially if you're breastfeeding.
 
-The flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women. It’s safe for you and your baby, even during pregnancy.
+It can be difficult to lose weight after having a baby, especially if you're breastfeeding. The average woman gains about 25 pounds during pregnancy and about 10 of those pounds will be lost within the first year of being pregnant, according to WebMD. However, it's not uncommon for some women to gain more than that—especially those who have had gestational diabetes or preeclampsia (a condition in which high blood pressure develops during pregnancy). This type of weight gain is likely due to changes in hormone levels caused by pregnancy itself as well as by hormonal fluctuations throughout the postpartum period.
 
-The flu shot also protects against other viruses that can cause serious illness in both adults and children — including croup, pneumonia and bronchitis — so you're less likely to get sick when someone else is sick around you.
+If this sounds familiar: If you've gained more than 25 pounds since giving birth (even though many women report being able to return back into their pre-pregnancy jeans), then chances are good that part of your problem could be related directly with how much time passed since giving birth and whether or not other factors like breastfeeding could have played into it too!
 
-If a pregnant woman has had a severe reaction to an immunization before, she should wait at least two weeks after receiving an immunization before getting another one. If this happens again with any vaccines given during pregnancy (including influenza) then they should not be received again until after delivery or miscarriage
+### Women who breastfeed usually lose more weight than those who don't.
 
-#### Vaccination can keep pregnant women out of the hospital.
+Breastfeeding can help you lose weight.
 
-The flu vaccine can help protect you and your baby from a serious illness. While there are no studies that show the vaccine helps prevent hospitalization in pregnant women, it does offer protection against many common flu complications that can be dangerous for both mom and baby.
+Women who breastfeed usually lose more weight than those who don't. The extra calories burned while breastfeeding help women get back their pre-baby body faster and burn off the baby weight faster, too. And it's not just about the extra calories—breastfeeding also has other benefits that help you get back in shape!
 
-* Flu-related hospitalizations: A study done by researchers at the U.S. Centers for Disease Control and Prevention (CDC) found that among people who were hospitalized with influenza, those who got the seasonal flu vaccine had a lower risk of being hospitalized with pneumonia or respiratory infection such as bronchitis or sinusitis than those who did not get vaccinated during their first three months after receiving their seasonal flu shot (1).
-* Newborns: Newborns are more likely than adults to develop serious complications from the flu because they still have low levels of immunity due to their small size and immature immune systems at birth or even before birth when they were exposed through breastfeeding milk (2). In fact, infants under six months old whose mothers get vaccinated against influenza before delivery may already be protected until around six months old when it's too late for them because their mother hasn't received enough doses yet!
+### Breastfeeding burns extra calories, so it can help you regain your pre-baby body faster.
 
-#### Maternal vaccination does not appear to pose any risk for miscarriage or adverse pregnancy outcomes.
+The extra calories that breastfeeding burns are a crucial part of the equation for getting your body back to pre-baby shape faster. If you're breastfeeding, you should expect to lose about one pound per week. This is more than double the weight loss rate of non-lactating women over the same period, which means that if you've gained 15 pounds since having your baby and have been breastfeeding for 30 weeks (about six months), you can expect to drop around 17 pounds after losing all that extra weight! The good news is that once breastfeeding stops being an issue, these numbers may go down even further—but don't stop counting those calories just yet: Your body uses them up even while it's still absorbing those precious nutrients from breast milk!
 
-Vaccination does not appear to pose any risk for miscarriage or adverse pregnancy outcomes. The Centers for Disease Control and Prevention (CDC) recommends that all pregnant women receive a flu shot every year, but there is no evidence that getting vaccinated during pregnancy will increase the risk of preterm birth or low birth weight. There is also no evidence that maternal vaccination increases your child’s risk of autism or cancer later in life.
+### About that postpartum belly...
 
-#### Getting a flu shot during pregnancy helps babies after they are born, too.
+Your body will change after having a baby. You may be heavier than before you became pregnant, and it can be difficult to lose weight after giving birth.
 
-When you get a flu vaccine during pregnancy, it can help protect both you and your baby from flu. This is because the vaccine contains protection against three types of viruses that cause influenza:
+Some women lose more weight in the first few months of breastfeeding (1), while others see little difference in their appearance or health (2). In fact, some studies show that breastfeeding burns extra calories that help mothers maintain their pre-pregnancy weight loss (3).
 
-* H1N1 (also known as swine flu)
-* A/H3N2 (a different strain than seasonal H1N1)
-* B virus
+### Breastfeeding can delay the return of your menstrual period by several months.
 
-#### Babies born to vaccinated mothers have less chance of being hospitalized with the flu.
+You should know that breastfeeding can delay the return of your menstrual period by several months. This is normal, and it's not harmful to you or your baby. It's actually a good sign that you're breastfeeding well!
 
-A study published in the journal Pediatrics found that babies born to vaccinated mothers have less chance of being hospitalized with the flu. The research also found that babies born to unvaccinated mothers were more likely than those vaccinated against H1N1 or other strains to be hospitalized and die from complications related to their flu infection.
+Breastfeeding can help you lose weight, too! If you're trying to lose weight during pregnancy, breastfeeding may be more effective than other methods of weight loss because it doesn't require any effort on behalf of either parent (you don't have to eat less food). In addition, there are many benefits associated with lactation:
 
-#### Getting vaccinated is as important after delivery as it is before delivery.  This includes postpartum care too!
+* Your body will produce more breast milk during pregnancy; this means that even if your baby doesn't like what you're giving him/her right now (or at all), this could change later on down the road when they get older--and hopefully start liking what he/she gets from mommy again!
 
-Getting vaccinated is as important after delivery as it is before pregnancy. This includes postpartum care, which can be especially important for new mothers who have a higher risk of infection. The immune system of a baby is still susceptible to infections until he or she reaches the age of 2 years old, so vaccination at this time can help protect your child from potentially dangerous diseases and illnesses.
+### When it comes to losing your pregnancy weight, how quickly you shed pounds could be more important than how much you lose.
 
-Vaccination protects both mom and baby by creating antibodies that help fight off some types of germs in early life, thereby preventing them from developing into full-blown disease later on in life (when they may cause serious health problems). Vaccinations also activate protective cells called T lymphocytes that patrol your body to fight off foreign invaders like viruses or bacteria by releasing specific proteins called cytokines into nearby tissues where they can bind onto exposed targets such as cells infected with certain pathogens found within different types/strains thereof--which ultimately results
+When it comes to losing your pregnancy weight, how quickly you shed pounds could be more important than how much you lose. The American College of Obstetricians and Gynecologists (ACOG) recommends that women gain at least 15 pounds during pregnancy, but only 10 percent of women follow this guideline. If you're one of those who did not gain much weight during pregnancy, the ACOG recommends that by six weeks after delivery, your weight should be at least 25 percent below what it was before conception.
 
-#### Newborns are at high risk of serious illness if they get the flu.  They can't get vaccinated until they are 6 months old but they can still get protection if the mother has been previously vaccinated or if she is in close contact with someone who has been vaccinated.
+However, it's not uncommon for women to lose less than 5 percent of their body mass in the first six weeks following childbirth; this is referred to as "peripartum shedding." As such, many experts agree that focusing on how fast a woman is losing her postpartum belly fat may be more beneficial than worrying about whether or not she lost enough overall weight during pregnancy—especially if she has other health issues like high blood pressure or diabetes (which are linked with obesity).
 
-Newborns are at high risk of serious illness if they get the flu. They can't get vaccinated until they are 6 months old but they can still get protection if the mother has been previously vaccinated or if she is in close contact with someone who has been vaccinated.
+### When it's safe to start trying to lose weight will depend on several factors, including whether you're breastfeeding, how much weight you want to lose and how quickly you want to lose it.
 
-The American Academy of Pediatrics recommends that all newborns be given a shot within 24 hours of birth to help prevent them from getting sick from viruses like influenza and rhinovirus (the stuff that sneezes). If you live in a place where flu is common, then your doctor may recommend this vaccination for your baby before or shortly after it's born.
+When it's safe to start trying to lose weight will depend on several factors, including whether you're breastfeeding and how much weight you want to lose. If you're breastfeeding and haven't yet miscarried or given birth, then it may be too soon for a healthy diet and exercise regimen.
 
-Newborn babies should also receive an initial series of vaccines at 2 weeks, 4 weeks and 6 months old before leaving their home environment so they're protected against many diseases while still being able to go out into public places without worrying about catching something contagious like chicken pox or measles while taking care not only themselves but also other people around them too!
+If your baby is not born yet but still in the womb, then babies have been known to lose up to 10 pounds during pregnancy due both natural changes in their bodies as well as hormonal changes brought about by pregnancy itself. However, this doesn't mean that women who are pregnant should all eat like they're going out of style; rather they should follow their own individual nutritional needs while also keeping an eye out for any signs indicating possible complications such as gestational diabetes (or diabetes mellitus) which could affect both mother and child alike if left untreated during such times."
 
-#### Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences
+### Your body will change after having a baby and there are ways to make sure that it is healthy
 
-Flu vaccine is safe for pregnant women, and can protect both mother and baby from flu.
+You may be wondering what the best way to keep your body healthy after having a baby. Your doctor will help you make these changes, but here are some tips:
 
-The Centers for Disease Control and Prevention (CDC) recommends that all people 6 months of age or older get a flu vaccination each year, even if they never get sick with the disease. The best way to reduce the risk of developing severe illness from infection with influenza A viruses is to prevent them in the first place. Flu vaccination protects against both types of flu viruses that cause most infections each season — type A (H1N1)pdm09 virus and B viruses — as well as other strains that may appear later in the year. It's also important to note that pregnant women who receive an annual flu vaccine during pregnancy have an increased chance of having their babies born healthy at birth compared with those who do not receive this shot during pregnancy
+* Talk to your doctor about your health. It's important that you take care of yourself and know how to get the most out of life!
+* Eat healthy foods—and exercise! If you work out regularly during pregnancy, it will make it easier for you when breastfeeding comes along later on down the road (if that's something that interests you).
+* Be careful about what kinds of foods go into your body; don't eat anything fried or fatty because this could lead towards weight gain later in life as well as unhealthy choices such as smoking cigarettes or drinking alcohol excessively.
 
-#### Summary
+### Conclusion
 
-I hope this article has given you a little more information about what the flu vaccine is, how it works, and why it's important for pregnant women to get vaccinated. If you have any questions or comments, please feel free to leave them below or send me an email at \[email protected\] Thank You!
-
-**Disclaimer:**  Consult doctor before taking any medication or vaccine. We are not responsible for any consequences
+I hope that this article has helped you understand a little bit more about how pregnancy affects your body and how to get back on track after baby. Remember that it's important to listen to your body and don't push yourself too hard when it comes to losing weight after having a baby. As long as you keep an eye on what you're eating and physically active, there are many ways for mothers who have just given birth stay healthy after giving birth.
