@@ -3,7 +3,7 @@ categories = ["healthcare", "baby"]
 date = 2022-08-05T18:30:00Z
 description = "I've always been a very proud and protective mother. Of course, this means that when my son was born, I was ready to fight for him with every ounce of energy in my body. And that's exactly what happened: I fought for him! But there were times when I wasn't fighting so much as just existing as mothers"
 draft = true
-image = "/images/pregnant-mom.jpg"
+image = "/images/mom-and-son.jpg"
 title = "Single mom and Son"
 type = "featured"
 
