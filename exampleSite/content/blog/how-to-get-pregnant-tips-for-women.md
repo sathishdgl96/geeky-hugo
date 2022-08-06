@@ -3,7 +3,7 @@ categories = ["healthcare", "baby"]
 date = 2022-08-05T18:30:00Z
 description = "Get pregnant is one of the most common questions that women ask. It's also a question that can be difficult to answer, which is why we've put together this guide on how to get pregnant. The best way to get pregnant is to have sex every day. If you can't, or don't want to, then try having sex every other day."
 draft = true
-image = "/images/pregnant-mom.jpg"
+image = "/images/pregnant-how-to.jpg"
 title = "How to get pregnant - Tips for women"
 type = "featured"
 
