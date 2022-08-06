@@ -1,88 +1,47 @@
 +++
-categories = ["healthcare", "baby"]
+categories = ["success-story", "business"]
 date = 2022-07-30T18:30:00Z
-description = "The flu is a serious illness that can lead to hospitalization and even death. Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences. It's important to get vaccinated during your pregnancy because you may be at higher risk for developing certain health problems, such as preeclampsia or premature birth than someone who isn't pregnant. "
+description = "Beyonce has a lot to keep up with. She's a singer, dancer and actress. She also has a business empire that includes several brands and restaurants. But at the top of her list is music — she's released an album every year since 2003! That's more than any other artist has managed in one decade (except maybe Taylor Swift)."
 draft = true
 image = "/images/pregnant-mom.jpg"
 title = "Story of Successful Business Women - Beyonce Biography"
 type = "featured"
 
 +++
-The flu is a serious illness that can lead to hospitalization and even death. Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences. It's important to get vaccinated during your pregnancy because you may be at higher risk for developing certain health problems, such as preeclampsia or premature birth than someone who isn't pregnant. Furthermore, if you get the flu while pregnant, there's a chance that your baby could develop complications like pneumonia or sepsis due to lack of immunity caused by maternal infection with flu virus during pregnancy itself (source).
+Beyonce has a lot of work to keep up with. From her childhood to her music career and film career, she's been doing it all by herself.
 
-#### The flu vaccine is safe for pregnant women and their babies.
+#### Childhood
 
-The flu vaccine is safe for pregnant women and their babies.
+Birth: June 1, 1981
 
-The Centers for Disease Control and Prevention (CDC) recommends that pregnant women receive the seasonal influenza vaccine each year as soon as it becomes available in their area. It's also important to make sure you get vaccinated if you're planning on getting pregnant in the next year or have recently given birth.
+Beyonce was born in Houston, Texas to parents who both had their own music careers. Her father was a gospel singer and her mother taught school for many years before becoming an elementary school principal. She also has four brothers and sisters who are all musicians/artists in their own right: Rohan Marley (gospel), Rayvon (rap), Shayonne (soul) and Korie (country).
 
-In addition to protecting against seasonal influenza, vaccines can help protect infants from several infections your baby might develop during the first year of life, including pneumonia and diarrhea caused by rotavirus; hepatitis A virus infection; Haemophilus influenzae type b (Hib) bacteria infection; pneumococcal disease—the most common cause of ear disease among children under 5 years old—and meningitis caused by Neisseria meningitidis bacteria
+Growing up in a Christian household helped shape Beyoncé's upbringing as well as her career path today!
 
-#### Flu vaccine can protect both mother and baby from flu.
+#### Music Career
 
-* The flu vaccine is safe for pregnant women and their babies.
-* Flu vaccine can protect both mother and baby from flu.
-* Flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women.
+Beyonce began her music career at age 14, when she signed a recording contract with Columbia Records. Her debut album, Dangerously in Love (2003), was a success and became certified 4x platinum within two months of its release. The following year she released her second album, Diva (2004), which debuted at number one on the Billboard 200 chart and earned Grammy nominations for Best Female R&B Vocal Performance ("Crazy in Love"), Best Contemporary R&B Album ("Diva"), and Best Non-Classical Recording for "End Of Time".
 
-#### Pregnant women who get a flu shot pass protection to their babies.
+#### Beyonce's third studio album I Am... Sasha Fierce was released in 2008; it became another success as it entered at number one on the Billboard 200 chart with sales over 1 million units sold in its first week alone. Her fourth studio album 4 was released in November 2010 by Columbia Records which peaked at number one on both Billboard 200 albums chart becoming Beyoncé's fourth consecutive solo number one album release. In 2013 Beyoncé released her fifth studio album entitled 5 which debuted at #1 on charts across North America including Top 10 positions worldwide including Australia (#6), United Kingdom (#7).
 
-Pregnant women who get a flu shot pass protection to their babies. That’s because the flu vaccine is made from proteins that are present in human breast milk and blood, so it can travel through the placenta to the fetus.
+#### Film Career
 
-The flu vaccine has been shown to reduce hospitalization rates by 50 percent, according to the Centers for Disease Control and Prevention (CDC).
+Beyonce has been in the spotlight for years, and she's had a very successful film career. She has won many awards for her performances on screen, including an Oscar for Best Motion Picture Actress in a Supporting Role for Dreamgirls. In addition to this win, Beyonce was also nominated for an Emmy Award for Outstanding Lead Actress in a Limited Series or Movie (for the HBO special "Life Is But a Dream").
 
-#### The flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women.
+Beyonce has starred in some big budget movies too! For example: The Lion King (voice only), Monsters Ball (voice only), and Dreamgirls (music video).
 
-The flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women. It’s safe for you and your baby, even during pregnancy.
+#### The Formation World Tour
 
-The flu shot also protects against other viruses that can cause serious illness in both adults and children — including croup, pneumonia and bronchitis — so you're less likely to get sick when someone else is sick around you.
+Formation World Tour
 
-If a pregnant woman has had a severe reaction to an immunization before, she should wait at least two weeks after receiving an immunization before getting another one. If this happens again with any vaccines given during pregnancy (including influenza) then they should not be received again until after delivery or miscarriage
+Beyonce's Formation World Tour was a worldwide concert tour by Beyonce. The tour began on April 27, 2016 in Miami at the Marlins Park and concluded on October 7, 2016 in San Diego at the Qualcomm Stadium.
 
-#### Vaccination can keep pregnant women out of the hospital.
+#### Beyonce has a lot of work to keep up with.
 
-The flu vaccine can help protect you and your baby from a serious illness. While there are no studies that show the vaccine helps prevent hospitalization in pregnant women, it does offer protection against many common flu complications that can be dangerous for both mom and baby.
+Beyonce has a lot to keep up with. She's a singer, dancer and actress. She also has a business empire that includes several brands and restaurants. But at the top of her list is music — she's released an album every year since 2003! That's more than any other artist has managed in one decade (except maybe Taylor Swift).
 
-* Flu-related hospitalizations: A study done by researchers at the U.S. Centers for Disease Control and Prevention (CDC) found that among people who were hospitalized with influenza, those who got the seasonal flu vaccine had a lower risk of being hospitalized with pneumonia or respiratory infection such as bronchitis or sinusitis than those who did not get vaccinated during their first three months after receiving their seasonal flu shot (1).
-* Newborns: Newborns are more likely than adults to develop serious complications from the flu because they still have low levels of immunity due to their small size and immature immune systems at birth or even before birth when they were exposed through breastfeeding milk (2). In fact, infants under six months old whose mothers get vaccinated against influenza before delivery may already be protected until around six months old when it's too late for them because their mother hasn't received enough doses yet!
-
-#### Maternal vaccination does not appear to pose any risk for miscarriage or adverse pregnancy outcomes.
-
-Vaccination does not appear to pose any risk for miscarriage or adverse pregnancy outcomes. The Centers for Disease Control and Prevention (CDC) recommends that all pregnant women receive a flu shot every year, but there is no evidence that getting vaccinated during pregnancy will increase the risk of preterm birth or low birth weight. There is also no evidence that maternal vaccination increases your child’s risk of autism or cancer later in life.
-
-#### Getting a flu shot during pregnancy helps babies after they are born, too.
-
-When you get a flu vaccine during pregnancy, it can help protect both you and your baby from flu. This is because the vaccine contains protection against three types of viruses that cause influenza:
-
-* H1N1 (also known as swine flu)
-* A/H3N2 (a different strain than seasonal H1N1)
-* B virus
-
-#### Babies born to vaccinated mothers have less chance of being hospitalized with the flu.
-
-A study published in the journal Pediatrics found that babies born to vaccinated mothers have less chance of being hospitalized with the flu. The research also found that babies born to unvaccinated mothers were more likely than those vaccinated against H1N1 or other strains to be hospitalized and die from complications related to their flu infection.
-
-#### Getting vaccinated is as important after delivery as it is before delivery.  This includes postpartum care too!
-
-Getting vaccinated is as important after delivery as it is before pregnancy. This includes postpartum care, which can be especially important for new mothers who have a higher risk of infection. The immune system of a baby is still susceptible to infections until he or she reaches the age of 2 years old, so vaccination at this time can help protect your child from potentially dangerous diseases and illnesses.
-
-Vaccination protects both mom and baby by creating antibodies that help fight off some types of germs in early life, thereby preventing them from developing into full-blown disease later on in life (when they may cause serious health problems). Vaccinations also activate protective cells called T lymphocytes that patrol your body to fight off foreign invaders like viruses or bacteria by releasing specific proteins called cytokines into nearby tissues where they can bind onto exposed targets such as cells infected with certain pathogens found within different types/strains thereof--which ultimately results
-
-#### Newborns are at high risk of serious illness if they get the flu.  They can't get vaccinated until they are 6 months old but they can still get protection if the mother has been previously vaccinated or if she is in close contact with someone who has been vaccinated.
-
-Newborns are at high risk of serious illness if they get the flu. They can't get vaccinated until they are 6 months old but they can still get protection if the mother has been previously vaccinated or if she is in close contact with someone who has been vaccinated.
-
-The American Academy of Pediatrics recommends that all newborns be given a shot within 24 hours of birth to help prevent them from getting sick from viruses like influenza and rhinovirus (the stuff that sneezes). If you live in a place where flu is common, then your doctor may recommend this vaccination for your baby before or shortly after it's born.
-
-Newborn babies should also receive an initial series of vaccines at 2 weeks, 4 weeks and 6 months old before leaving their home environment so they're protected against many diseases while still being able to go out into public places without worrying about catching something contagious like chicken pox or measles while taking care not only themselves but also other people around them too!
-
-#### Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences
-
-Flu vaccine is safe for pregnant women, and can protect both mother and baby from flu.
-
-The Centers for Disease Control and Prevention (CDC) recommends that all people 6 months of age or older get a flu vaccination each year, even if they never get sick with the disease. The best way to reduce the risk of developing severe illness from infection with influenza A viruses is to prevent them in the first place. Flu vaccination protects against both types of flu viruses that cause most infections each season — type A (H1N1)pdm09 virus and B viruses — as well as other strains that may appear later in the year. It's also important to note that pregnant women who receive an annual flu vaccine during pregnancy have an increased chance of having their babies born healthy at birth compared with those who do not receive this shot during pregnancy
+But even though Beyonce is famous for her brand-new music every year, it doesn't stop there: She also performs live shows all over the world — which means she spends money on travel expenses just so people can see her perform live in person! In fact, over the last decade alone Beyonce has toured worldwide at least five times: twice in Asia alone during 2009/2010; once across Europe during 2010/2011; back again across Europe again with another tour alongside Jay Z during 2013/2014; followed by yet another European tour called "The Mrs Carter Show World Tour" which kicked off last month after months of rehearsals ended up being cancelled due to weather issues caused by Hurricane Irma hitting Florida where many people had been evacuated from their homes before heading north towards Atlanta because they feared they wouldn't get there safely otherwise."
 
 #### Summary
 
-I hope this article has given you a little more information about what the flu vaccine is, how it works, and why it's important for pregnant women to get vaccinated. If you have any questions or comments, please feel free to leave them below or send me an email at \[email protected\] Thank You!
-
-**Disclaimer:**  Consult doctor before taking any medication or vaccine. We are not responsible for any consequences
+The Formation World Tour has been the biggest tour of all time. It has also been a successful way for her to connect with fans. She is still writing music and working on new projects so I think it will be exciting to see what Beyonce does next!
