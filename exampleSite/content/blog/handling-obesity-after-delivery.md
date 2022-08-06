@@ -2,7 +2,6 @@
 categories = ["healthcare", "baby"]
 date = 2022-08-05T18:30:00Z
 description = "Pregnant women may gain weight during pregnancy, but not everyone does. The average weight gain for a woman at term is 25-35 pounds. Some women may gain more, some less. When your body has been pregnant for a long time, it can be hard to get back into shape after giving birth—but if you do lose all the weight you gained during pregnancy and then gain it again, that's called excess weight."
-draft = true
 image = "/images/obesity.jpg"
 title = "Handling Obesity after Delivery "
 type = "featured"
