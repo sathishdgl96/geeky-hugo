@@ -2,7 +2,6 @@
 categories = ["success-story", "business"]
 date = 2022-08-05T18:30:00Z
 description = "Beyonce has a lot to keep up with. She's a singer, dancer and actress. She also has a business empire that includes several brands and restaurants. But at the top of her list is music — she's released an album every year since 2003! That's more than any other artist has managed in one decade (except maybe Taylor Swift)."
-draft = true
 image = "/images/beyonce.png"
 title = "Story of Successful Business Women - Beyonce Biography"
 type = "featured"
