@@ -1,88 +1,61 @@
 +++
 categories = ["healthcare", "baby"]
-date = 2022-07-30T18:30:00Z
-description = "The flu is a serious illness that can lead to hospitalization and even death. Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences. It's important to get vaccinated during your pregnancy because you may be at higher risk for developing certain health problems, such as preeclampsia or premature birth than someone who isn't pregnant. "
+date = 2022-08-06T18:30:00Z
+description = "Single moms are a growing population. According to the Pew Research Center, they make up nearly 40% of American households with children under 18, but they often have fewer resources and less help than people assume. Single parents have to do so much by themselves that it's easy to forget how much support you actually need. Here are some ways in which single moms can overcome their challenges:"
 draft = true
 image = "/images/pregnant-mom.jpg"
 title = "challenges of being a single mom and how to overcome"
 type = "featured"
 
 +++
-The flu is a serious illness that can lead to hospitalization and even death. Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences. It's important to get vaccinated during your pregnancy because you may be at higher risk for developing certain health problems, such as preeclampsia or premature birth than someone who isn't pregnant. Furthermore, if you get the flu while pregnant, there's a chance that your baby could develop complications like pneumonia or sepsis due to lack of immunity caused by maternal infection with flu virus during pregnancy itself (source).
+Single moms are a growing population. According to the Pew Research Center, they make up nearly 40% of American households with children under 18, but they often have fewer resources and less help than people assume. Single parents have to do so much by themselves that it's easy to forget how much support you actually need. Here are some ways in which single moms can overcome their challenges:
 
-#### The flu vaccine is safe for pregnant women and their babies.
+### Single moms make up the fastest growing segment of society.
 
-The flu vaccine is safe for pregnant women and their babies.
+Single moms are the fastest growing segment of society, and the number is expected to continue growing. Women are having children later in life, which means more single moms. More women are raising their children out of wedlock, which also means more single moms. There are many reasons for this trend:
 
-The Centers for Disease Control and Prevention (CDC) recommends that pregnant women receive the seasonal influenza vaccine each year as soon as it becomes available in their area. It's also important to make sure you get vaccinated if you're planning on getting pregnant in the next year or have recently given birth.
+* The shift from being married at a young age to being an unwed mother has led to fewer marriages and more births outside marriage.
+* Women who have had an abortion or who have never been pregnant may not want children right away because they don't want their lives disrupted by another child (some studies show that women who have abortions regret them).
 
-In addition to protecting against seasonal influenza, vaccines can help protect infants from several infections your baby might develop during the first year of life, including pneumonia and diarrhea caused by rotavirus; hepatitis A virus infection; Haemophilus influenzae type b (Hib) bacteria infection; pneumococcal disease—the most common cause of ear disease among children under 5 years old—and meningitis caused by Neisseria meningitidis bacteria
+### The biggest challenges are financial.
 
-#### Flu vaccine can protect both mother and baby from flu.
+The biggest challenges are financial. As a single parent, you are the only person who can provide for your child and make sure they have everything they need. This means that you will have to take on more responsibilities than if there were two adults in the home. You'll also be responsible for paying all of the bills and making sure everyone has enough food on their plate at any given time.
 
-* The flu vaccine is safe for pregnant women and their babies.
-* Flu vaccine can protect both mother and baby from flu.
-* Flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women.
+It's important not to let these responsibilities overwhelm you or cause stress in your life; however, there is no shame in taking advantage of government assistance programs if necessary!
 
-#### Pregnant women who get a flu shot pass protection to their babies.
+### Raising children alone is a challenge in itself.
 
-Pregnant women who get a flu shot pass protection to their babies. That’s because the flu vaccine is made from proteins that are present in human breast milk and blood, so it can travel through the placenta to the fetus.
+Raising children alone is a challenge in itself. The challenges of being a single parent are many, but they’re nothing compared to the challenges of raising children without a partner.
 
-The flu vaccine has been shown to reduce hospitalization rates by 50 percent, according to the Centers for Disease Control and Prevention (CDC).
+Children need love and attention from both parents, which can be difficult when one parent is working or going through divorce or separation. Additionally, children may feel abandoned when their parents separate; this can lead them to act out more than usual because they don't understand why it's happening and what will happen next (especially if there was no prenup).
 
-#### The flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women.
+### Surviving as a single parent takes creativity.
 
-The flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women. It’s safe for you and your baby, even during pregnancy.
+As a single parent, you have to be creative in how you do things. You need to be able to manage your finances, time and energy.
 
-The flu shot also protects against other viruses that can cause serious illness in both adults and children — including croup, pneumonia and bronchitis — so you're less likely to get sick when someone else is sick around you.
+You also need to know when it's okay for someone else (like your partner) or even yourself--to help out with something that's important for the family but not urgent right now.
 
-If a pregnant woman has had a severe reaction to an immunization before, she should wait at least two weeks after receiving an immunization before getting another one. If this happens again with any vaccines given during pregnancy (including influenza) then they should not be received again until after delivery or miscarriage
+### Networking with other parents is important.
 
-#### Vaccination can keep pregnant women out of the hospital.
+Networking with other parents is important. You'll probably want to ask for help, and you should be honest about it. Don't feel guilty or afraid of failure—you're going through a lot, but so are they! And don't be afraid of success: what's life without some fun?
 
-The flu vaccine can help protect you and your baby from a serious illness. While there are no studies that show the vaccine helps prevent hospitalization in pregnant women, it does offer protection against many common flu complications that can be dangerous for both mom and baby.
+You may also find yourself judged by those around you—but remember that everyone has different experiences and perspectives, no matter how similar we all look on paper (or even in person). The key here is not letting these judgments keep us from doing something we enjoy, whether that means meeting new people or trying something new out of fear of being judged again.
 
-* Flu-related hospitalizations: A study done by researchers at the U.S. Centers for Disease Control and Prevention (CDC) found that among people who were hospitalized with influenza, those who got the seasonal flu vaccine had a lower risk of being hospitalized with pneumonia or respiratory infection such as bronchitis or sinusitis than those who did not get vaccinated during their first three months after receiving their seasonal flu shot (1).
-* Newborns: Newborns are more likely than adults to develop serious complications from the flu because they still have low levels of immunity due to their small size and immature immune systems at birth or even before birth when they were exposed through breastfeeding milk (2). In fact, infants under six months old whose mothers get vaccinated against influenza before delivery may already be protected until around six months old when it's too late for them because their mother hasn't received enough doses yet!
+### It's not easy, but it's worth it.
 
-#### Maternal vaccination does not appear to pose any risk for miscarriage or adverse pregnancy outcomes.
+As a single mom, you'll have your hands full. You're the sole caregiver for your child, and it's an incredible responsibility. You need to earn money to support them and still be there for them when they need you most. You also have to make sure that they're getting the right kind of education so they can succeed in life—and it's not always easy to do this on your own!
 
-Vaccination does not appear to pose any risk for miscarriage or adverse pregnancy outcomes. The Centers for Disease Control and Prevention (CDC) recommends that all pregnant women receive a flu shot every year, but there is no evidence that getting vaccinated during pregnancy will increase the risk of preterm birth or low birth weight. There is also no evidence that maternal vaccination increases your child’s risk of autism or cancer later in life.
+But there are so many rewards associated with being a single mother:
 
-#### Getting a flu shot during pregnancy helps babies after they are born, too.
+* Being able to set boundaries with other people who don't respect those boundaries (e.g., parents)
+* Being able to set priorities in life by focusing on what matters most (e.g., spending time with my daughter) instead of getting caught up in things like work or dating someone else because I know how important time spent with her has been for me over the years...
 
-When you get a flu vaccine during pregnancy, it can help protect both you and your baby from flu. This is because the vaccine contains protection against three types of viruses that cause influenza:
+### You can survive, even thrive as a single mom.
 
-* H1N1 (also known as swine flu)
-* A/H3N2 (a different strain than seasonal H1N1)
-* B virus
+As a single mom, you can survive, even thrive. You may be surprised by the fact that being a single parent isn't always easy—but it can be rewarding, too.
 
-#### Babies born to vaccinated mothers have less chance of being hospitalized with the flu.
+You may have heard that having children alone is stressful, but it doesn't have to be! There are ways to find joy and fulfillment in your life as a single parent.
 
-A study published in the journal Pediatrics found that babies born to vaccinated mothers have less chance of being hospitalized with the flu. The research also found that babies born to unvaccinated mothers were more likely than those vaccinated against H1N1 or other strains to be hospitalized and die from complications related to their flu infection.
+### Conclusion
 
-#### Getting vaccinated is as important after delivery as it is before delivery.  This includes postpartum care too!
-
-Getting vaccinated is as important after delivery as it is before pregnancy. This includes postpartum care, which can be especially important for new mothers who have a higher risk of infection. The immune system of a baby is still susceptible to infections until he or she reaches the age of 2 years old, so vaccination at this time can help protect your child from potentially dangerous diseases and illnesses.
-
-Vaccination protects both mom and baby by creating antibodies that help fight off some types of germs in early life, thereby preventing them from developing into full-blown disease later on in life (when they may cause serious health problems). Vaccinations also activate protective cells called T lymphocytes that patrol your body to fight off foreign invaders like viruses or bacteria by releasing specific proteins called cytokines into nearby tissues where they can bind onto exposed targets such as cells infected with certain pathogens found within different types/strains thereof--which ultimately results
-
-#### Newborns are at high risk of serious illness if they get the flu.  They can't get vaccinated until they are 6 months old but they can still get protection if the mother has been previously vaccinated or if she is in close contact with someone who has been vaccinated.
-
-Newborns are at high risk of serious illness if they get the flu. They can't get vaccinated until they are 6 months old but they can still get protection if the mother has been previously vaccinated or if she is in close contact with someone who has been vaccinated.
-
-The American Academy of Pediatrics recommends that all newborns be given a shot within 24 hours of birth to help prevent them from getting sick from viruses like influenza and rhinovirus (the stuff that sneezes). If you live in a place where flu is common, then your doctor may recommend this vaccination for your baby before or shortly after it's born.
-
-Newborn babies should also receive an initial series of vaccines at 2 weeks, 4 weeks and 6 months old before leaving their home environment so they're protected against many diseases while still being able to go out into public places without worrying about catching something contagious like chicken pox or measles while taking care not only themselves but also other people around them too!
-
-#### Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences
-
-Flu vaccine is safe for pregnant women, and can protect both mother and baby from flu.
-
-The Centers for Disease Control and Prevention (CDC) recommends that all people 6 months of age or older get a flu vaccination each year, even if they never get sick with the disease. The best way to reduce the risk of developing severe illness from infection with influenza A viruses is to prevent them in the first place. Flu vaccination protects against both types of flu viruses that cause most infections each season — type A (H1N1)pdm09 virus and B viruses — as well as other strains that may appear later in the year. It's also important to note that pregnant women who receive an annual flu vaccine during pregnancy have an increased chance of having their babies born healthy at birth compared with those who do not receive this shot during pregnancy
-
-#### Summary
-
-I hope this article has given you a little more information about what the flu vaccine is, how it works, and why it's important for pregnant women to get vaccinated. If you have any questions or comments, please feel free to leave them below or send me an email at \[email protected\] Thank You!
-
-**Disclaimer:**  Consult doctor before taking any medication or vaccine. We are not responsible for any consequences
+It can be tough to make ends meet, but as long as you have a positive outlook and are willing to do what it takes, then you'll be able to survive! You might even find yourself able to thrive in this challenging environment.
