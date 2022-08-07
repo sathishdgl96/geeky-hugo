@@ -3,7 +3,7 @@ categories = ["healthcare", "baby"]
 date = 2022-08-06T18:30:00Z
 description = "Single moms are a growing population. According to the Pew Research Center, they make up nearly 40% of American households with children under 18, but they often have fewer resources and less help than people assume. Single parents have to do so much by themselves that it's easy to forget how much support you actually need. Here are some ways in which single moms can overcome their challenges:"
 draft = true
-image = "/images/pregnant-mom.jpg"
+image = "/images/single-mom.jpg"
 title = "challenges of being a single mom and how to overcome"
 type = "featured"
 
