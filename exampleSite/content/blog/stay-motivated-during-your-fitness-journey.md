@@ -2,7 +2,6 @@
 categories = ["healthcare", "fitness"]
 date = 2022-08-06T18:30:00Z
 description = " There are so many days when all you feel like doing is taking a nap in your bed or eating ice cream for dinner instead of going for a run or lifting weights. If you're feeling this way too (or just want some tips), then read on because we've got some ideas for keeping yourself on track with your fitness goals!. Don't be afraid to change equipment either—especially if it means improving efficiency and effectiveness! Consider using an indoor rowing machine instead of an outdoor rower during winter months when outside conditions aren't ideal; or try switching out free weights with kettlebells instead of dumbbells during summertime workouts because they're easier on joints/tendons/ligaments etc..."
-draft = true
 image = "/images/stay-fitness.jpg"
 title = "Stay Motivated during your fitness journey"
 type = "featured"
