@@ -1,88 +1,68 @@
 +++
-categories = ["healthcare", "baby"]
-date = 2022-07-30T18:30:00Z
-description = "The flu is a serious illness that can lead to hospitalization and even death. Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences. It's important to get vaccinated during your pregnancy because you may be at higher risk for developing certain health problems, such as preeclampsia or premature birth than someone who isn't pregnant. "
+categories = ["healthcare", "fitness"]
+date = 2022-08-06T18:30:00Z
+description = " There are so many days when all you feel like doing is taking a nap in your bed or eating ice cream for dinner instead of going for a run or lifting weights. If you're feeling this way too (or just want some tips), then read on because we've got some ideas for keeping yourself on track with your fitness goals!. Don't be afraid to change equipment either—especially if it means improving efficiency and effectiveness! Consider using an indoor rowing machine instead of an outdoor rower during winter months when outside conditions aren't ideal; or try switching out free weights with kettlebells instead of dumbbells during summertime workouts because they're easier on joints/tendons/ligaments etc..."
 draft = true
 image = "/images/pregnant-mom.jpg"
 title = "Stay Motivated during your fitness journey"
 type = "featured"
 
 +++
-The flu is a serious illness that can lead to hospitalization and even death. Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences. It's important to get vaccinated during your pregnancy because you may be at higher risk for developing certain health problems, such as preeclampsia or premature birth than someone who isn't pregnant. Furthermore, if you get the flu while pregnant, there's a chance that your baby could develop complications like pneumonia or sepsis due to lack of immunity caused by maternal infection with flu virus during pregnancy itself (source).
+I'm a fitness junkie. I love to work out and push myself as hard as possible, but sometimes it can be tough to stay motivated on your fitness journey. There are so many days when all you feel like doing is taking a nap in your bed or eating ice cream for dinner instead of going for a run or lifting weights. If you're feeling this way too (or just want some tips), then read on because we've got some ideas for keeping yourself on track with your fitness goals!
 
-#### The flu vaccine is safe for pregnant women and their babies.
+### Switch up your routine.
 
-The flu vaccine is safe for pregnant women and their babies.
+If you’re feeling like your routine is getting stale, try switching up how you do it. This will keep it from becoming boring and uninspiring. Here are some ways to do this:
 
-The Centers for Disease Control and Prevention (CDC) recommends that pregnant women receive the seasonal influenza vaccine each year as soon as it becomes available in their area. It's also important to make sure you get vaccinated if you're planning on getting pregnant in the next year or have recently given birth.
+* Make sure that every workout session has a different focus than the previous one. For example, if your current routine consists of running on the treadmill or elliptical machine for 30 minutes at a time (and perhaps even doing some strength training afterward), then try adding in intervals between sets where you run for just 10 seconds then walk for 5 seconds before starting again. This will provide more variation in terms of intensity levels while also keeping things interesting!
+* Don't be afraid to change equipment either—especially if it means improving efficiency and effectiveness! Consider using an indoor rowing machine instead of an outdoor rower during winter months when outside conditions aren't ideal; or try switching out free weights with kettlebells instead of dumbbells during summertime workouts because they're easier on joints/tendons/ligaments etc...
 
-In addition to protecting against seasonal influenza, vaccines can help protect infants from several infections your baby might develop during the first year of life, including pneumonia and diarrhea caused by rotavirus; hepatitis A virus infection; Haemophilus influenzae type b (Hib) bacteria infection; pneumococcal disease—the most common cause of ear disease among children under 5 years old—and meningitis caused by Neisseria meningitidis bacteria
+### Take it one day at a time.
 
-#### Flu vaccine can protect both mother and baby from flu.
+When you're in the gym, it can be easy to get caught up in your head and worry about what might happen next. You might think about how this week's workout is going to be better than last week's or how much longer your current diet will take before you see results. But if you focus on the present moment instead of worrying about future goals, things will feel more manageable and less overwhelming—especially when there are so many things that need doing every day!
 
-* The flu vaccine is safe for pregnant women and their babies.
-* Flu vaccine can protect both mother and baby from flu.
-* Flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women.
+So instead of thinking "I have to do this" or "I won't make it by tomorrow," try saying something like "This is where I am right now." Or even better yet: "This is my plan today." This approach helps keep us focused on what matters most when we're working out or eating healthfully—the daily task at hand rather than long-term goals that may never come true anyway!
 
-#### Pregnant women who get a flu shot pass protection to their babies.
+### Allow flexibility.
 
-Pregnant women who get a flu shot pass protection to their babies. That’s because the flu vaccine is made from proteins that are present in human breast milk and blood, so it can travel through the placenta to the fetus.
+It's important to remember that your fitness journey isn't a sprint, but rather a long-term pursuit. With this in mind, it's important not to get too stressed or discouraged if you miss workouts or weeks of progress. Remembering this will help keep you motivated as you make progress and stay on track with your goals!
 
-The flu vaccine has been shown to reduce hospitalization rates by 50 percent, according to the Centers for Disease Control and Prevention (CDC).
+It’s also important not to beat yourself up for missing workouts or weeks of progress; instead, allow yourself flexibility in order for things like work responsibilities and family obligations (and sometimes even just plain old laziness) come into play when planning out each week's schedule of workouts. If someone else is going running with me at 7:00 AM every morning? That may mean I don’t have time for my usual workout—but that doesn't mean I should give up on exercise altogether! In fact, having options available can make life easier when it comes down making decisions about how much time we want spend working out versus spending time doing other activities like watching TV shows instead (just kidding).
 
-#### The flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women.
+### Get some fresh air.
 
-The flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women. It’s safe for you and your baby, even during pregnancy.
+It’s a fact of life that you can’t always spend time outside. If you live in a city, your schedule will probably consist of work and other commitments that keep you away from the icy cold or baking hot sun. What do you do?
 
-The flu shot also protects against other viruses that can cause serious illness in both adults and children — including croup, pneumonia and bronchitis — so you're less likely to get sick when someone else is sick around you.
+* Get some fresh air.
+* Stay motivated by thinking about your goal, whether it's losing weight or running a marathon without stopping for water breaks!
 
-If a pregnant woman has had a severe reaction to an immunization before, she should wait at least two weeks after receiving an immunization before getting another one. If this happens again with any vaccines given during pregnancy (including influenza) then they should not be received again until after delivery or miscarriage
+### Have an accountability partner.
 
-#### Vaccination can keep pregnant women out of the hospital.
+If you’re struggling to stay motivated, or if your fitness goals are going unmet and you feel like giving up on them completely, it’s time to find an accountability partner.
 
-The flu vaccine can help protect you and your baby from a serious illness. While there are no studies that show the vaccine helps prevent hospitalization in pregnant women, it does offer protection against many common flu complications that can be dangerous for both mom and baby.
+An accountability partner is someone who will hold you accountable for your fitness goals and make sure that they are achieved. They can be a friend or family member, but the most important thing is that they have enough motivation themselves (or at least want to help) in order to keep pushing each other forward with their own fitness journey. You need someone who will support you through both good times as well as bad ones—and also vice versa! If there isn't one in your life right now then consider joining online communities like \[this\](https://www.*
 
-* Flu-related hospitalizations: A study done by researchers at the U.S. Centers for Disease Control and Prevention (CDC) found that among people who were hospitalized with influenza, those who got the seasonal flu vaccine had a lower risk of being hospitalized with pneumonia or respiratory infection such as bronchitis or sinusitis than those who did not get vaccinated during their first three months after receiving their seasonal flu shot (1).
-* Newborns: Newborns are more likely than adults to develop serious complications from the flu because they still have low levels of immunity due to their small size and immature immune systems at birth or even before birth when they were exposed through breastfeeding milk (2). In fact, infants under six months old whose mothers get vaccinated against influenza before delivery may already be protected until around six months old when it's too late for them because their mother hasn't received enough doses yet!
+### Reward yourself for making progress.
 
-#### Maternal vaccination does not appear to pose any risk for miscarriage or adverse pregnancy outcomes.
+When you start to notice progress, celebrate! It's important to remember that small wins are just as important as big ones.
 
-Vaccination does not appear to pose any risk for miscarriage or adverse pregnancy outcomes. The Centers for Disease Control and Prevention (CDC) recommends that all pregnant women receive a flu shot every year, but there is no evidence that getting vaccinated during pregnancy will increase the risk of preterm birth or low birth weight. There is also no evidence that maternal vaccination increases your child’s risk of autism or cancer later in life.
+* Try rewarding yourself for each small win: a few more pushups in your lunch break, or feeling stronger than the days before. The more often you reward yourself for making progress, the easier it will be for you to stay motivated and keep going!
+* Reward yourself with something small: A new workout outfit (or a new pair of earrings), getting an update taken care of at work—whatever it is that makes YOU feel good about what YOU'RE doing.
 
-#### Getting a flu shot during pregnancy helps babies after they are born, too.
+### Don't skip meals.
 
-When you get a flu vaccine during pregnancy, it can help protect both you and your baby from flu. This is because the vaccine contains protection against three types of viruses that cause influenza:
+There are lots of reasons to eat regularly. Eating regularly helps you avoid hunger and overeating, which will keep your energy levels high. It also gives your body time to rest, which is important when it's hard work keeping up with workouts.
 
-* H1N1 (also known as swine flu)
-* A/H3N2 (a different strain than seasonal H1N1)
-* B virus
+If you're trying to lose weight or just get healthier overall, make sure that each meal has a balance of healthy fats (like avocado or olive oil), proteins (like eggs or fish), carbohydrates from whole grains like brown rice rather than white breads with added sugar and refined flours made from wheat grain grown in pesticides sprayed across fields during harvest season - these types of foods will give more nutrients than processed foods loaded with chemicals instead!
 
-#### Babies born to vaccinated mothers have less chance of being hospitalized with the flu.
+### Staying motivated on a fitness journey can be tough but with these tips, it can be a breeze.
 
-A study published in the journal Pediatrics found that babies born to vaccinated mothers have less chance of being hospitalized with the flu. The research also found that babies born to unvaccinated mothers were more likely than those vaccinated against H1N1 or other strains to be hospitalized and die from complications related to their flu infection.
+* Stay positive.
+* Don't give up.
+* Create a plan and stick to it!
+* Be realistic about your goals and how long they'll take you to achieve them (this is important because if you're not being realistic with yourself, then there's no point in even starting).
+* Make sure that everyone around you knows what your fitness goal is and supports you in achieving it by helping with motivation or just being there for moral support when needed (this can be especially helpful during those tough times when everything seems hopeless).
 
-#### Getting vaccinated is as important after delivery as it is before delivery.  This includes postpartum care too!
+### Conclusion
 
-Getting vaccinated is as important after delivery as it is before pregnancy. This includes postpartum care, which can be especially important for new mothers who have a higher risk of infection. The immune system of a baby is still susceptible to infections until he or she reaches the age of 2 years old, so vaccination at this time can help protect your child from potentially dangerous diseases and illnesses.
-
-Vaccination protects both mom and baby by creating antibodies that help fight off some types of germs in early life, thereby preventing them from developing into full-blown disease later on in life (when they may cause serious health problems). Vaccinations also activate protective cells called T lymphocytes that patrol your body to fight off foreign invaders like viruses or bacteria by releasing specific proteins called cytokines into nearby tissues where they can bind onto exposed targets such as cells infected with certain pathogens found within different types/strains thereof--which ultimately results
-
-#### Newborns are at high risk of serious illness if they get the flu.  They can't get vaccinated until they are 6 months old but they can still get protection if the mother has been previously vaccinated or if she is in close contact with someone who has been vaccinated.
-
-Newborns are at high risk of serious illness if they get the flu. They can't get vaccinated until they are 6 months old but they can still get protection if the mother has been previously vaccinated or if she is in close contact with someone who has been vaccinated.
-
-The American Academy of Pediatrics recommends that all newborns be given a shot within 24 hours of birth to help prevent them from getting sick from viruses like influenza and rhinovirus (the stuff that sneezes). If you live in a place where flu is common, then your doctor may recommend this vaccination for your baby before or shortly after it's born.
-
-Newborn babies should also receive an initial series of vaccines at 2 weeks, 4 weeks and 6 months old before leaving their home environment so they're protected against many diseases while still being able to go out into public places without worrying about catching something contagious like chicken pox or measles while taking care not only themselves but also other people around them too!
-
-#### Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences
-
-Flu vaccine is safe for pregnant women, and can protect both mother and baby from flu.
-
-The Centers for Disease Control and Prevention (CDC) recommends that all people 6 months of age or older get a flu vaccination each year, even if they never get sick with the disease. The best way to reduce the risk of developing severe illness from infection with influenza A viruses is to prevent them in the first place. Flu vaccination protects against both types of flu viruses that cause most infections each season — type A (H1N1)pdm09 virus and B viruses — as well as other strains that may appear later in the year. It's also important to note that pregnant women who receive an annual flu vaccine during pregnancy have an increased chance of having their babies born healthy at birth compared with those who do not receive this shot during pregnancy
-
-#### Summary
-
-I hope this article has given you a little more information about what the flu vaccine is, how it works, and why it's important for pregnant women to get vaccinated. If you have any questions or comments, please feel free to leave them below or send me an email at \[email protected\] Thank You!
-
-**Disclaimer:**  Consult doctor before taking any medication or vaccine. We are not responsible for any consequences
+Our goal is to help you stay motivated on your fitness journey. Remember, it's not about being perfect or achieving the impossible. It's about taking small steps forward towards a healthier lifestyle and making sure you're enjoying the journey along the way.
