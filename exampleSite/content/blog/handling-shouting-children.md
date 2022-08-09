@@ -1,88 +1,55 @@
 +++
-categories = ["healthcare", "baby"]
-date = 2022-07-30T18:30:00Z
-description = "The flu is a serious illness that can lead to hospitalization and even death. Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences. It's important to get vaccinated during your pregnancy because you may be at higher risk for developing certain health problems, such as preeclampsia or premature birth than someone who isn't pregnant. "
+categories = ["healthcare", "baby", "parenting"]
+date = 2022-08-08T18:30:00Z
+description = "Children are often taught how to express themselves in a loud and forceful way. However, shouting is only one of many ways that children can communicate. If your child is shouting at you or others in an aggressive manner, it may be time for some training! Here are some tips on how you can approach this situation:"
 draft = true
 image = "/images/pregnant-mom.jpg"
 title = "Handling Shouting Children"
 type = "featured"
 
 +++
-The flu is a serious illness that can lead to hospitalization and even death. Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences. It's important to get vaccinated during your pregnancy because you may be at higher risk for developing certain health problems, such as preeclampsia or premature birth than someone who isn't pregnant. Furthermore, if you get the flu while pregnant, there's a chance that your baby could develop complications like pneumonia or sepsis due to lack of immunity caused by maternal infection with flu virus during pregnancy itself (source).
+Children are often taught how to express themselves in a loud and forceful way. However, shouting is only one of many ways that children can communicate. If your child is shouting at you or others in an aggressive manner, it may be time for some training! Here are some tips on how you can approach this situation:
 
-#### The flu vaccine is safe for pregnant women and their babies.
+#### Relax yourself.
 
-The flu vaccine is safe for pregnant women and their babies.
+* Take a deep breath. Shouting can be a passive-aggressive way for children to get your attention. If you respond with anger or frustration, it will only reinforce the behavior. You should also avoid making eye contact with your child while they are shouting at you—this may seem counterintuitive, but doing so will make them feel as if they have won an argument.
+* Relax your body. If you have a tendency to clench your fists or cross your arms, try relaxing those muscles. If you are standing, sit down. This will help you to appear less confrontational and more approachable.
+* Relax your mind. Try to let go of the negative thoughts that are causing you stress. It’s okay if your child doesn’t always listen to you—they still love you, even if they don’t show it.
+* Relax your voice . Try to speak more slowly and calmly. You can also try taking a deep breath before speaking and holding it while you are talking. This will help you avoid raising your voice or saying things that are hurtful or accusatory.
 
-The Centers for Disease Control and Prevention (CDC) recommends that pregnant women receive the seasonal influenza vaccine each year as soon as it becomes available in their area. It's also important to make sure you get vaccinated if you're planning on getting pregnant in the next year or have recently given birth.
+#### Do not react.
 
-In addition to protecting against seasonal influenza, vaccines can help protect infants from several infections your baby might develop during the first year of life, including pneumonia and diarrhea caused by rotavirus; hepatitis A virus infection; Haemophilus influenzae type b (Hib) bacteria infection; pneumococcal disease—the most common cause of ear disease among children under 5 years old—and meningitis caused by Neisseria meningitidis bacteria
+* Do not react to the child's behaviour. Try not to get angry, yell, or punish your child. If you do react, it will only make the situation worse. Reacting will also make it more difficult for your child to understand why they are acting out.
+* Do not react to the child's words. Do not react to the child's words. Try to remain calm and quiet while they are talking, even if they are yelling or swearing at you (which is often a sign that they feel overwhelmed by their feelings). Your child may be trying to get your attention or express their frustration with your rules. Listen carefully when your child is talking so that you can understand what they are feeling and why they are behaving badly.
+* Do not react to the child's actions. When you react to a child's behavior, it can make them feel that they have power over you. For example, if your child is yelling at you or hitting their brother and then you yell back or hit them back, this only reinforces the idea that this type of behavior works.
+* Do not react to the child's emotions (anger, fear, sadness).
+* Don't try and change their emotions with yours either -- this is not helpful!
 
-#### Flu vaccine can protect both mother and baby from flu.
+#### Get down to the child's level.
 
-* The flu vaccine is safe for pregnant women and their babies.
-* Flu vaccine can protect both mother and baby from flu.
-* Flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women.
+* Get down to the child's level.
+* Make sure you are not towering over the child.
+* Try to use a calm voice, rather than shouting or raising your voice. If you have to shout, try and do so in short bursts at a time and then move on to something else like playing with them or talking about something else entirely (such as what they did today).
+* Use eye contact while talking with him/her and make sure they understand what you are saying by showing them how their actions will affect others around them such as other children who might be listening in on our conversation instead of focusing on us alone right now!
 
-#### Pregnant women who get a flu shot pass protection to their babies.
+#### Tell the child that you need to speak with him in a calm voice.
 
-Pregnant women who get a flu shot pass protection to their babies. That’s because the flu vaccine is made from proteins that are present in human breast milk and blood, so it can travel through the placenta to the fetus.
+If you're in a situation where you need to speak with your child, tell him that you want to speak with him in a calm voice. Do not raise your voice or use harsh tones of any kind.
 
-The flu vaccine has been shown to reduce hospitalization rates by 50 percent, according to the Centers for Disease Control and Prevention (CDC).
+#### Praise the child for good behavior.
 
-#### The flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women.
+* Praise the child for good behavior.
+* Be specific about what you liked and why. For example, “You said please when I asked you to turn off the TV and take out your toys! That's great!” or “Thank you for helping me with our project today, even though it was hard work. You're such a great helper!”
+* Reward the child with a sticker or some other small reward (e.g., small toy).
 
-The flu vaccine is the best way to reduce the risk of flu-associated illness in pregnant women. It’s safe for you and your baby, even during pregnancy.
+#### Help children learn how to express themselves other than by shouting.
 
-The flu shot also protects against other viruses that can cause serious illness in both adults and children — including croup, pneumonia and bronchitis — so you're less likely to get sick when someone else is sick around you.
+* Use words to express feelings.
+* Use non-verbal communication to express feelings.
+* Use a journal to express feelings.
+* Use a punching bag to express feelings (and maybe learn some self-defense skills.)
+* Use pillowcases or sheets on the floor as targets for throwing things into them or hitting them with anything else that you can find in the house, like pencils, pens and markers etc., then throw whatever it is at those targets until they break into smithereens! Or just do this while watching TV instead of playing video games all day long!!!
 
-If a pregnant woman has had a severe reaction to an immunization before, she should wait at least two weeks after receiving an immunization before getting another one. If this happens again with any vaccines given during pregnancy (including influenza) then they should not be received again until after delivery or miscarriage
+#### Conclusion
 
-#### Vaccination can keep pregnant women out of the hospital.
-
-The flu vaccine can help protect you and your baby from a serious illness. While there are no studies that show the vaccine helps prevent hospitalization in pregnant women, it does offer protection against many common flu complications that can be dangerous for both mom and baby.
-
-* Flu-related hospitalizations: A study done by researchers at the U.S. Centers for Disease Control and Prevention (CDC) found that among people who were hospitalized with influenza, those who got the seasonal flu vaccine had a lower risk of being hospitalized with pneumonia or respiratory infection such as bronchitis or sinusitis than those who did not get vaccinated during their first three months after receiving their seasonal flu shot (1).
-* Newborns: Newborns are more likely than adults to develop serious complications from the flu because they still have low levels of immunity due to their small size and immature immune systems at birth or even before birth when they were exposed through breastfeeding milk (2). In fact, infants under six months old whose mothers get vaccinated against influenza before delivery may already be protected until around six months old when it's too late for them because their mother hasn't received enough doses yet!
-
-#### Maternal vaccination does not appear to pose any risk for miscarriage or adverse pregnancy outcomes.
-
-Vaccination does not appear to pose any risk for miscarriage or adverse pregnancy outcomes. The Centers for Disease Control and Prevention (CDC) recommends that all pregnant women receive a flu shot every year, but there is no evidence that getting vaccinated during pregnancy will increase the risk of preterm birth or low birth weight. There is also no evidence that maternal vaccination increases your child’s risk of autism or cancer later in life.
-
-#### Getting a flu shot during pregnancy helps babies after they are born, too.
-
-When you get a flu vaccine during pregnancy, it can help protect both you and your baby from flu. This is because the vaccine contains protection against three types of viruses that cause influenza:
-
-* H1N1 (also known as swine flu)
-* A/H3N2 (a different strain than seasonal H1N1)
-* B virus
-
-#### Babies born to vaccinated mothers have less chance of being hospitalized with the flu.
-
-A study published in the journal Pediatrics found that babies born to vaccinated mothers have less chance of being hospitalized with the flu. The research also found that babies born to unvaccinated mothers were more likely than those vaccinated against H1N1 or other strains to be hospitalized and die from complications related to their flu infection.
-
-#### Getting vaccinated is as important after delivery as it is before delivery.  This includes postpartum care too!
-
-Getting vaccinated is as important after delivery as it is before pregnancy. This includes postpartum care, which can be especially important for new mothers who have a higher risk of infection. The immune system of a baby is still susceptible to infections until he or she reaches the age of 2 years old, so vaccination at this time can help protect your child from potentially dangerous diseases and illnesses.
-
-Vaccination protects both mom and baby by creating antibodies that help fight off some types of germs in early life, thereby preventing them from developing into full-blown disease later on in life (when they may cause serious health problems). Vaccinations also activate protective cells called T lymphocytes that patrol your body to fight off foreign invaders like viruses or bacteria by releasing specific proteins called cytokines into nearby tissues where they can bind onto exposed targets such as cells infected with certain pathogens found within different types/strains thereof--which ultimately results
-
-#### Newborns are at high risk of serious illness if they get the flu.  They can't get vaccinated until they are 6 months old but they can still get protection if the mother has been previously vaccinated or if she is in close contact with someone who has been vaccinated.
-
-Newborns are at high risk of serious illness if they get the flu. They can't get vaccinated until they are 6 months old but they can still get protection if the mother has been previously vaccinated or if she is in close contact with someone who has been vaccinated.
-
-The American Academy of Pediatrics recommends that all newborns be given a shot within 24 hours of birth to help prevent them from getting sick from viruses like influenza and rhinovirus (the stuff that sneezes). If you live in a place where flu is common, then your doctor may recommend this vaccination for your baby before or shortly after it's born.
-
-Newborn babies should also receive an initial series of vaccines at 2 weeks, 4 weeks and 6 months old before leaving their home environment so they're protected against many diseases while still being able to go out into public places without worrying about catching something contagious like chicken pox or measles while taking care not only themselves but also other people around them too!
-
-#### Vaccination during pregnancy protects both mom and baby from influenza and its potentially severe consequences
-
-Flu vaccine is safe for pregnant women, and can protect both mother and baby from flu.
-
-The Centers for Disease Control and Prevention (CDC) recommends that all people 6 months of age or older get a flu vaccination each year, even if they never get sick with the disease. The best way to reduce the risk of developing severe illness from infection with influenza A viruses is to prevent them in the first place. Flu vaccination protects against both types of flu viruses that cause most infections each season — type A (H1N1)pdm09 virus and B viruses — as well as other strains that may appear later in the year. It's also important to note that pregnant women who receive an annual flu vaccine during pregnancy have an increased chance of having their babies born healthy at birth compared with those who do not receive this shot during pregnancy
-
-#### Summary
-
-I hope this article has given you a little more information about what the flu vaccine is, how it works, and why it's important for pregnant women to get vaccinated. If you have any questions or comments, please feel free to leave them below or send me an email at \[email protected\] Thank You!
-
-**Disclaimer:**  Consult doctor before taking any medication or vaccine. We are not responsible for any consequences
+The most important thing is that you can learn to calm yourself down in the moment. The key is to respond calmly and firmly, but in a way that doesn’t make the child feel afraid or threatened. You want him to feel heard and respected, not judged or criticized. If you keep this up with your children over time and continue speaking calmly when they scream at you then they may learn how not do this anymore when they are angry or frustrated with life around them!
