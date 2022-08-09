@@ -2,7 +2,6 @@
 categories = ["baby", "parenting"]
 date = 2022-08-08T18:30:00Z
 description = "Your children are a bundle of fun. They're there to make your life easier, but they also want to know that their wants and needs are important. The problem is that sometimes, you just can't give them what they want. If this happens, it's important for parents to teach their children how best to handle situations like these by teaching them what not saying no looks like and why it's important."
-draft = true
 image = "/images/no-to-the-children.jpg"
 title = "How to say no to your children"
 type = "featured"
