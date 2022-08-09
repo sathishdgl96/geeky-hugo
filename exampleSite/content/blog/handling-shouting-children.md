@@ -2,7 +2,6 @@
 categories = ["healthcare", "baby", "parenting"]
 date = 2022-08-08T18:30:00Z
 description = "Children are often taught how to express themselves in a loud and forceful way. However, shouting is only one of many ways that children can communicate. If your child is shouting at you or others in an aggressive manner, it may be time for some training! Here are some tips on how you can approach this situation:"
-draft = true
 image = "/images/pregnant-mom.jpg"
 title = "Handling Shouting Children"
 type = "featured"
