@@ -2,7 +2,6 @@
 categories = ["business"]
 date = 2022-09-06T18:30:00Z
 description = "Women business owners are becoming more common, but there are still issues facing women in the workplace. In this article, we'll explore how being a woman business owner can benefit you financially and personally. Women business owners now make up 40% of all U.S. businesses, a number that has increased by about 10% since 2010. This means that there are more women in charge than ever before!"
-draft = true
 image = "/images/women-business-owner.jpg"
 title = "Benefits of being a Women Business Owner"
 type = "featured"
