@@ -12,6 +12,8 @@ Becoming a parent is an exciting time filled with joy, anticipation, and a littl
 
 In this blog, we'll guide you through the process of creating an Amazon Baby Registry and highlight some of the key features and benefits you'll enjoy.
 
+![](/images/amazon-baby-registry.jpg)
+
 #### What is Baby Registry?
 
 Baby Registry solves the problem of searching different baby products across online. Now you can find all the products that meet your baby needs in a single place. It even allows you to register the products that aren’t from amazon
