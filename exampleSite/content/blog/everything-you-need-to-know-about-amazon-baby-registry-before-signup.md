@@ -2,7 +2,6 @@
 categories = ["healthcare", "baby"]
 date = 2023-02-12T18:30:00Z
 description = "Becoming a parent is an exciting time filled with joy, anticipation, and a little bit of stress as you prepare for the arrival of your new little one. One of the best things you can do to ease that stress is to create a baby registry. An Amazon Baby Registry is a great option for parents because it offers convenience and one stop store to meet all your baby needs. It has huge selection of baby products, discounts, and many other benefits."
-draft = true
 image = "/images/amazon-baby-registry.jpg"
 title = "Everything you need to know about amazon baby registry before signup"
 type = "featured"
